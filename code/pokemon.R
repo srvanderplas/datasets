@@ -38,5 +38,4 @@ pokemon_data %>%
 
 # mirror site
 dir.create("html/pokemon_gen_1-9")
-system("wget -r -e robots=off -l 1 -k -c -H --domains='img.pokemondb.net'
-             -P html/pokemon_gen_1-9 https://pokemondb.net/pokedex/all")
+system("wget -r -e robots=off -l 1 -k -c -H --domains='img.pokemondb.net' -P html/pokemon_gen_1-9 https://pokemondb.net/pokedex/all")
