@@ -87,4 +87,6 @@ poke_mismatch2 <- anti_join(pokemon_data2_adj, pokemon_data)
 pokemon_data_gen <- left_join(pokemon_data, select(pokemon_data2_adj, pokedex_no, gen)) %>%
   select(gen, everything())
 pokemon_data_gen %>%
+  mutate(type_1 = str_split_i(type, ",", 1),
+         type_2 = str_split_i(type, ",", 2)) %>%
   write_csv("clean/pokemon_gen_1-9.csv")
