@@ -1,0 +1,1154 @@
+pokedex_no,pokedex_link,img_link2,name,variant,type,type2,gen
+1,/wiki/Bulbasaur_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/21/001Bulbasaur.png/70px-001Bulbasaur.png,Bulbasaur,,Grass,Poison,1
+2,/wiki/Ivysaur_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/73/002Ivysaur.png/70px-002Ivysaur.png,Ivysaur,,Grass,Poison,1
+3,/wiki/Venusaur_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ae/003Venusaur.png/70px-003Venusaur.png,Venusaur,,Grass,Poison,1
+4,/wiki/Charmander_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/73/004Charmander.png/70px-004Charmander.png,Charmander,,Fire,Fire,1
+5,/wiki/Charmeleon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4a/005Charmeleon.png/70px-005Charmeleon.png,Charmeleon,,Fire,Fire,1
+6,/wiki/Charizard_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7e/006Charizard.png/70px-006Charizard.png,Charizard,,Fire,Flying,1
+7,/wiki/Squirtle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/39/007Squirtle.png/70px-007Squirtle.png,Squirtle,,Water,Water,1
+8,/wiki/Wartortle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0c/008Wartortle.png/70px-008Wartortle.png,Wartortle,,Water,Water,1
+9,/wiki/Blastoise_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/02/009Blastoise.png/70px-009Blastoise.png,Blastoise,,Water,Water,1
+10,/wiki/Caterpie_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5d/010Caterpie.png/70px-010Caterpie.png,Caterpie,,Bug,Bug,1
+11,/wiki/Metapod_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cd/011Metapod.png/70px-011Metapod.png,Metapod,,Bug,Bug,1
+12,/wiki/Butterfree_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d1/012Butterfree.png/70px-012Butterfree.png,Butterfree,,Bug,Flying,1
+13,/wiki/Weedle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/df/013Weedle.png/70px-013Weedle.png,Weedle,,Bug,Poison,1
+14,/wiki/Kakuna_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f0/014Kakuna.png/70px-014Kakuna.png,Kakuna,,Bug,Poison,1
+15,/wiki/Beedrill_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/61/015Beedrill.png/70px-015Beedrill.png,Beedrill,,Bug,Poison,1
+16,/wiki/Pidgey_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/55/016Pidgey.png/70px-016Pidgey.png,Pidgey,,Normal,Flying,1
+17,/wiki/Pidgeotto_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7a/017Pidgeotto.png/70px-017Pidgeotto.png,Pidgeotto,,Normal,Flying,1
+18,/wiki/Pidgeot_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/57/018Pidgeot.png/70px-018Pidgeot.png,Pidgeot,,Normal,Flying,1
+19,/wiki/Rattata_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/46/019Rattata.png/70px-019Rattata.png,Rattata,,Normal,Normal,1
+NA,/wiki/Rattata_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/91/019Rattata-Alola.png/70px-019Rattata-Alola.png,Rattata,Alolan Form,Dark,Normal,1
+20,/wiki/Raticate_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f4/020Raticate.png/70px-020Raticate.png,Raticate,,Normal,Normal,1
+NA,/wiki/Raticate_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/020Raticate-Alola.png/70px-020Raticate-Alola.png,Raticate,Alolan Form,Dark,Normal,1
+21,/wiki/Spearow_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8b/021Spearow.png/70px-021Spearow.png,Spearow,,Normal,Flying,1
+22,/wiki/Fearow_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a0/022Fearow.png/70px-022Fearow.png,Fearow,,Normal,Flying,1
+23,/wiki/Ekans_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fa/023Ekans.png/70px-023Ekans.png,Ekans,,Poison,Poison,1
+24,/wiki/Arbok_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cd/024Arbok.png/70px-024Arbok.png,Arbok,,Poison,Poison,1
+25,/wiki/Pikachu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0d/025Pikachu.png/70px-025Pikachu.png,Pikachu,,Electric,Electric,1
+26,/wiki/Raichu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/88/026Raichu.png/70px-026Raichu.png,Raichu,,Electric,Electric,1
+NA,/wiki/Raichu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3a/026Raichu-Alola.png/70px-026Raichu-Alola.png,Raichu,Alolan Form,Electric,Psychic,1
+27,/wiki/Sandshrew_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9e/027Sandshrew.png/70px-027Sandshrew.png,Sandshrew,,Ground,Ground,1
+NA,/wiki/Sandshrew_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c9/027Sandshrew-Alola.png/70px-027Sandshrew-Alola.png,Sandshrew,Alolan Form,Ice,Steel,1
+28,/wiki/Sandslash_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0b/028Sandslash.png/70px-028Sandslash.png,Sandslash,,Ground,Ground,1
+NA,/wiki/Sandslash_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bd/028Sandslash-Alola.png/70px-028Sandslash-Alola.png,Sandslash,Alolan Form,Ice,Steel,1
+29,/wiki/Nidoran%E2%99%80_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/81/029Nidoran.png/70px-029Nidoran.png,Nidoran♀,,Poison,Poison,1
+30,/wiki/Nidorina_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cd/030Nidorina.png/70px-030Nidorina.png,Nidorina,,Poison,Poison,1
+31,/wiki/Nidoqueen_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bf/031Nidoqueen.png/70px-031Nidoqueen.png,Nidoqueen,,Poison,Ground,1
+32,/wiki/Nidoran%E2%99%82_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4a/032Nidoran.png/70px-032Nidoran.png,Nidoran♂,,Poison,Poison,1
+33,/wiki/Nidorino_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9f/033Nidorino.png/70px-033Nidorino.png,Nidorino,,Poison,Poison,1
+34,/wiki/Nidoking_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c6/034Nidoking.png/70px-034Nidoking.png,Nidoking,,Poison,Ground,1
+35,/wiki/Clefairy_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f4/035Clefairy.png/70px-035Clefairy.png,Clefairy,,Fairy,Fairy,1
+36,/wiki/Clefable_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a9/036Clefable.png/70px-036Clefable.png,Clefable,,Fairy,Fairy,1
+37,/wiki/Vulpix_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/60/037Vulpix.png/70px-037Vulpix.png,Vulpix,,Fire,Fire,1
+NA,/wiki/Vulpix_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/35/037Vulpix-Alola.png/70px-037Vulpix-Alola.png,Vulpix,Alolan Form,Ice,Ice,1
+38,/wiki/Ninetales_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/05/038Ninetales.png/70px-038Ninetales.png,Ninetales,,Fire,Fire,1
+NA,/wiki/Ninetales_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/26/038Ninetales-Alola.png/70px-038Ninetales-Alola.png,Ninetales,Alolan Form,Ice,Fairy,1
+39,/wiki/Jigglypuff_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3e/039Jigglypuff.png/70px-039Jigglypuff.png,Jigglypuff,,Normal,Fairy,1
+40,/wiki/Wigglytuff_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/92/040Wigglytuff.png/70px-040Wigglytuff.png,Wigglytuff,,Normal,Fairy,1
+41,/wiki/Zubat_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/da/041Zubat.png/70px-041Zubat.png,Zubat,,Poison,Flying,1
+42,/wiki/Golbat_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0c/042Golbat.png/70px-042Golbat.png,Golbat,,Poison,Flying,1
+43,/wiki/Oddish_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/43/043Oddish.png/70px-043Oddish.png,Oddish,,Grass,Poison,1
+44,/wiki/Gloom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2a/044Gloom.png/70px-044Gloom.png,Gloom,,Grass,Poison,1
+45,/wiki/Vileplume_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6a/045Vileplume.png/70px-045Vileplume.png,Vileplume,,Grass,Poison,1
+46,/wiki/Paras_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d4/046Paras.png/70px-046Paras.png,Paras,,Bug,Grass,1
+47,/wiki/Parasect_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/80/047Parasect.png/70px-047Parasect.png,Parasect,,Bug,Grass,1
+48,/wiki/Venonat_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ad/048Venonat.png/70px-048Venonat.png,Venonat,,Bug,Poison,1
+49,/wiki/Venomoth_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d3/049Venomoth.png/70px-049Venomoth.png,Venomoth,,Bug,Poison,1
+50,/wiki/Diglett_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/31/050Diglett.png/70px-050Diglett.png,Diglett,,Ground,Ground,1
+NA,/wiki/Diglett_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/10/050Diglett-Alola.png/70px-050Diglett-Alola.png,Diglett,Alolan Form,Ground,Steel,1
+51,/wiki/Dugtrio_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e5/051Dugtrio.png/70px-051Dugtrio.png,Dugtrio,,Ground,Ground,1
+NA,/wiki/Dugtrio_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/22/051Dugtrio-Alola.png/70px-051Dugtrio-Alola.png,Dugtrio,Alolan Form,Ground,Steel,1
+52,/wiki/Meowth_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d6/052Meowth.png/70px-052Meowth.png,Meowth,,Normal,Normal,1
+NA,/wiki/Meowth_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e3/052Meowth-Alola.png/70px-052Meowth-Alola.png,Meowth,Alolan Form,Dark,Dark,1
+NA,/wiki/Meowth_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/09/052Meowth-Galar.png/70px-052Meowth-Galar.png,Meowth,Galarian Form,Steel,Steel,1
+53,/wiki/Persian_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/13/053Persian.png/70px-053Persian.png,Persian,,Normal,Normal,1
+NA,/wiki/Persian_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/80/053Persian-Alola.png/70px-053Persian-Alola.png,Persian,Alolan Form,Dark,Dark,1
+54,/wiki/Psyduck_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/53/054Psyduck.png/70px-054Psyduck.png,Psyduck,,Water,Water,1
+55,/wiki/Golduck_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fe/055Golduck.png/70px-055Golduck.png,Golduck,,Water,Water,1
+56,/wiki/Mankey_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/41/056Mankey.png/70px-056Mankey.png,Mankey,,Fighting,Fighting,1
+57,/wiki/Primeape_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9a/057Primeape.png/70px-057Primeape.png,Primeape,,Fighting,Fighting,1
+58,/wiki/Growlithe_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3d/058Growlithe.png/70px-058Growlithe.png,Growlithe,,Fire,Fire,1
+NA,/wiki/Growlithe_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a9/058Growlithe-Hisui.png/70px-058Growlithe-Hisui.png,Growlithe,Hisuian Form,Fire,Rock,1
+59,/wiki/Arcanine_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b8/059Arcanine.png/70px-059Arcanine.png,Arcanine,,Fire,Fire,1
+NA,/wiki/Arcanine_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/63/059Arcanine-Hisui.png/70px-059Arcanine-Hisui.png,Arcanine,Hisuian Form,Fire,Rock,1
+60,/wiki/Poliwag_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/49/060Poliwag.png/70px-060Poliwag.png,Poliwag,,Water,Water,1
+61,/wiki/Poliwhirl_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a9/061Poliwhirl.png/70px-061Poliwhirl.png,Poliwhirl,,Water,Water,1
+62,/wiki/Poliwrath_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2d/062Poliwrath.png/70px-062Poliwrath.png,Poliwrath,,Water,Fighting,1
+63,/wiki/Abra_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/62/063Abra.png/70px-063Abra.png,Abra,,Psychic,Psychic,1
+64,/wiki/Kadabra_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/97/064Kadabra.png/70px-064Kadabra.png,Kadabra,,Psychic,Psychic,1
+65,/wiki/Alakazam_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cc/065Alakazam.png/70px-065Alakazam.png,Alakazam,,Psychic,Psychic,1
+66,/wiki/Machop_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/85/066Machop.png/70px-066Machop.png,Machop,,Fighting,Fighting,1
+67,/wiki/Machoke_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8e/067Machoke.png/70px-067Machoke.png,Machoke,,Fighting,Fighting,1
+68,/wiki/Machamp_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8f/068Machamp.png/70px-068Machamp.png,Machamp,,Fighting,Fighting,1
+69,/wiki/Bellsprout_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a2/069Bellsprout.png/70px-069Bellsprout.png,Bellsprout,,Grass,Poison,1
+70,/wiki/Weepinbell_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9f/070Weepinbell.png/70px-070Weepinbell.png,Weepinbell,,Grass,Poison,1
+71,/wiki/Victreebel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/be/071Victreebel.png/70px-071Victreebel.png,Victreebel,,Grass,Poison,1
+72,/wiki/Tentacool_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4e/072Tentacool.png/70px-072Tentacool.png,Tentacool,,Water,Poison,1
+73,/wiki/Tentacruel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f6/073Tentacruel.png/70px-073Tentacruel.png,Tentacruel,,Water,Poison,1
+74,/wiki/Geodude_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/98/074Geodude.png/70px-074Geodude.png,Geodude,,Rock,Ground,1
+NA,/wiki/Geodude_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/43/074Geodude-Alola.png/70px-074Geodude-Alola.png,Geodude,Alolan Form,Rock,Electric,1
+75,/wiki/Graveler_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/75/075Graveler.png/70px-075Graveler.png,Graveler,,Rock,Ground,1
+NA,/wiki/Graveler_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/62/075Graveler-Alola.png/70px-075Graveler-Alola.png,Graveler,Alolan Form,Rock,Electric,1
+76,/wiki/Golem_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f2/076Golem.png/70px-076Golem.png,Golem,,Rock,Ground,1
+NA,/wiki/Golem_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/07/076Golem-Alola.png/70px-076Golem-Alola.png,Golem,Alolan Form,Rock,Electric,1
+77,/wiki/Ponyta_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3b/077Ponyta.png/70px-077Ponyta.png,Ponyta,,Fire,Fire,1
+NA,/wiki/Ponyta_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/92/077Ponyta-Galar.png/70px-077Ponyta-Galar.png,Ponyta,Galarian Form,Psychic,Psychic,1
+78,/wiki/Rapidash_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3f/078Rapidash.png/70px-078Rapidash.png,Rapidash,,Fire,Fire,1
+NA,/wiki/Rapidash_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e0/078Rapidash-Galar.png/70px-078Rapidash-Galar.png,Rapidash,Galarian Form,Psychic,Fairy,1
+79,/wiki/Slowpoke_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/70/079Slowpoke.png/70px-079Slowpoke.png,Slowpoke,,Water,Psychic,1
+NA,/wiki/Slowpoke_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9f/079Slowpoke-Galar.png/70px-079Slowpoke-Galar.png,Slowpoke,Galarian Form,Psychic,Psychic,1
+80,/wiki/Slowbro_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/80/080Slowbro.png/70px-080Slowbro.png,Slowbro,,Water,Psychic,1
+NA,/wiki/Slowbro_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8b/080Slowbro-Galar.png/70px-080Slowbro-Galar.png,Slowbro,Galarian Form,Poison,Psychic,1
+81,/wiki/Magnemite_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6c/081Magnemite.png/70px-081Magnemite.png,Magnemite,,Electric,Steel,1
+82,/wiki/Magneton_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/72/082Magneton.png/70px-082Magneton.png,Magneton,,Electric,Steel,1
+83,/wiki/Farfetch%27d_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f8/083Farfetch%27d.png/70px-083Farfetch%27d.png,Farfetch'd,,Normal,Flying,1
+NA,/wiki/Farfetch%27d_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7d/083Farfetch%27d-Galar.png/70px-083Farfetch%27d-Galar.png,Farfetch'd,Galarian Form,Fighting,Fighting,1
+84,/wiki/Doduo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/54/084Doduo.png/70px-084Doduo.png,Doduo,,Normal,Flying,1
+85,/wiki/Dodrio_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/93/085Dodrio.png/70px-085Dodrio.png,Dodrio,,Normal,Flying,1
+86,/wiki/Seel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1f/086Seel.png/70px-086Seel.png,Seel,,Water,Water,1
+87,/wiki/Dewgong_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c7/087Dewgong.png/70px-087Dewgong.png,Dewgong,,Water,Ice,1
+88,/wiki/Grimer_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a0/088Grimer.png/70px-088Grimer.png,Grimer,,Poison,Poison,1
+NA,/wiki/Grimer_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e0/088Grimer-Alola.png/70px-088Grimer-Alola.png,Grimer,Alolan Form,Poison,Dark,1
+89,/wiki/Muk_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7c/089Muk.png/70px-089Muk.png,Muk,,Poison,Poison,1
+NA,/wiki/Muk_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/15/089Muk-Alola.png/70px-089Muk-Alola.png,Muk,Alolan Form,Poison,Dark,1
+90,/wiki/Shellder_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/40/090Shellder.png/70px-090Shellder.png,Shellder,,Water,Water,1
+91,/wiki/Cloyster_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1d/091Cloyster.png/70px-091Cloyster.png,Cloyster,,Water,Ice,1
+92,/wiki/Gastly_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/ca/092Gastly.png/70px-092Gastly.png,Gastly,,Ghost,Poison,1
+93,/wiki/Haunter_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/62/093Haunter.png/70px-093Haunter.png,Haunter,,Ghost,Poison,1
+94,/wiki/Gengar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c6/094Gengar.png/70px-094Gengar.png,Gengar,,Ghost,Poison,1
+95,/wiki/Onix_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9a/095Onix.png/70px-095Onix.png,Onix,,Rock,Ground,1
+96,/wiki/Drowzee_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3e/096Drowzee.png/70px-096Drowzee.png,Drowzee,,Psychic,Psychic,1
+97,/wiki/Hypno_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0a/097Hypno.png/70px-097Hypno.png,Hypno,,Psychic,Psychic,1
+98,/wiki/Krabby_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a7/098Krabby.png/70px-098Krabby.png,Krabby,,Water,Water,1
+99,/wiki/Kingler_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/099Kingler.png/70px-099Kingler.png,Kingler,,Water,Water,1
+100,/wiki/Voltorb_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/da/100Voltorb.png/70px-100Voltorb.png,Voltorb,,Electric,Electric,1
+NA,/wiki/Voltorb_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/ff/100Voltorb-Hisui.png/70px-100Voltorb-Hisui.png,Voltorb,Hisuian Form,Electric,Grass,1
+101,/wiki/Electrode_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/84/101Electrode.png/70px-101Electrode.png,Electrode,,Electric,Electric,1
+NA,/wiki/Electrode_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b2/101Electrode-Hisui.png/70px-101Electrode-Hisui.png,Electrode,Hisuian Form,Electric,Grass,1
+102,/wiki/Exeggcute_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/af/102Exeggcute.png/70px-102Exeggcute.png,Exeggcute,,Grass,Psychic,1
+103,/wiki/Exeggutor_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/24/103Exeggutor.png/70px-103Exeggutor.png,Exeggutor,,Grass,Psychic,1
+NA,/wiki/Exeggutor_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/74/103Exeggutor-Alola.png/70px-103Exeggutor-Alola.png,Exeggutor,Alolan Form,Grass,Dragon,1
+104,/wiki/Cubone_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2a/104Cubone.png/70px-104Cubone.png,Cubone,,Ground,Ground,1
+105,/wiki/Marowak_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/98/105Marowak.png/70px-105Marowak.png,Marowak,,Ground,Ground,1
+NA,/wiki/Marowak_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/06/105Marowak-Alola.png/70px-105Marowak-Alola.png,Marowak,Alolan Form,Fire,Ghost,1
+106,/wiki/Hitmonlee_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/32/106Hitmonlee.png/70px-106Hitmonlee.png,Hitmonlee,,Fighting,Fighting,1
+107,/wiki/Hitmonchan_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a3/107Hitmonchan.png/70px-107Hitmonchan.png,Hitmonchan,,Fighting,Fighting,1
+108,/wiki/Lickitung_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/00/108Lickitung.png/70px-108Lickitung.png,Lickitung,,Normal,Normal,1
+109,/wiki/Koffing_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/17/109Koffing.png/70px-109Koffing.png,Koffing,,Poison,Poison,1
+110,/wiki/Weezing_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/42/110Weezing.png/70px-110Weezing.png,Weezing,,Poison,Poison,1
+NA,/wiki/Weezing_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/38/110Weezing-Galar.png/70px-110Weezing-Galar.png,Weezing,Galarian Form,Poison,Fairy,1
+111,/wiki/Rhyhorn_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9b/111Rhyhorn.png/70px-111Rhyhorn.png,Rhyhorn,,Ground,Rock,1
+112,/wiki/Rhydon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/47/112Rhydon.png/70px-112Rhydon.png,Rhydon,,Ground,Rock,1
+113,/wiki/Chansey_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cd/113Chansey.png/70px-113Chansey.png,Chansey,,Normal,Normal,1
+114,/wiki/Tangela_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3e/114Tangela.png/70px-114Tangela.png,Tangela,,Grass,Grass,1
+115,/wiki/Kangaskhan_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4e/115Kangaskhan.png/70px-115Kangaskhan.png,Kangaskhan,,Normal,Normal,1
+116,/wiki/Horsea_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5a/116Horsea.png/70px-116Horsea.png,Horsea,,Water,Water,1
+117,/wiki/Seadra_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/26/117Seadra.png/70px-117Seadra.png,Seadra,,Water,Water,1
+118,/wiki/Goldeen_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7b/118Goldeen.png/70px-118Goldeen.png,Goldeen,,Water,Water,1
+119,/wiki/Seaking_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6a/119Seaking.png/70px-119Seaking.png,Seaking,,Water,Water,1
+120,/wiki/Staryu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4f/120Staryu.png/70px-120Staryu.png,Staryu,,Water,Water,1
+121,/wiki/Starmie_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cd/121Starmie.png/70px-121Starmie.png,Starmie,,Water,Psychic,1
+122,/wiki/Mr._Mime_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ec/122Mr._Mime.png/70px-122Mr._Mime.png,Mr. Mime,,Psychic,Fairy,1
+NA,/wiki/Mr._Mime_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d1/122Mr._Mime-Galar.png/70px-122Mr._Mime-Galar.png,Mr. Mime,Galarian Form,Ice,Psychic,1
+123,/wiki/Scyther_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/ba/123Scyther.png/70px-123Scyther.png,Scyther,,Bug,Flying,1
+124,/wiki/Jynx_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7c/124Jynx.png/70px-124Jynx.png,Jynx,,Ice,Psychic,1
+125,/wiki/Electabuzz_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/de/125Electabuzz.png/70px-125Electabuzz.png,Electabuzz,,Electric,Electric,1
+126,/wiki/Magmar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8c/126Magmar.png/70px-126Magmar.png,Magmar,,Fire,Fire,1
+127,/wiki/Pinsir_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/127Pinsir.png/70px-127Pinsir.png,Pinsir,,Bug,Bug,1
+128,/wiki/Tauros_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b8/128Tauros.png/70px-128Tauros.png,Tauros,,Normal,Normal,1
+NA,/wiki/Tauros_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/95/128Tauros-Paldea_Combat.png/70px-128Tauros-Paldea_Combat.png,Tauros,Paldean Form(Combat Breed),Fighting,Fighting,1
+NA,/wiki/Tauros_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b0/128Tauros-Paldea_Blaze.png/70px-128Tauros-Paldea_Blaze.png,Tauros,Paldean Form(Blaze Breed),Fighting,Fire,1
+NA,/wiki/Tauros_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/66/128Tauros-Paldea_Aqua.png/70px-128Tauros-Paldea_Aqua.png,Tauros,Paldean Form(Aqua Breed),Fighting,Water,1
+129,/wiki/Magikarp_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/02/129Magikarp.png/70px-129Magikarp.png,Magikarp,,Water,Water,1
+130,/wiki/Gyarados_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/41/130Gyarados.png/70px-130Gyarados.png,Gyarados,,Water,Flying,1
+131,/wiki/Lapras_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ab/131Lapras.png/70px-131Lapras.png,Lapras,,Water,Ice,1
+132,/wiki/Ditto_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/36/132Ditto.png/70px-132Ditto.png,Ditto,,Normal,Normal,1
+133,/wiki/Eevee_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e2/133Eevee.png/70px-133Eevee.png,Eevee,,Normal,Normal,1
+134,/wiki/Vaporeon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fd/134Vaporeon.png/70px-134Vaporeon.png,Vaporeon,,Water,Water,1
+135,/wiki/Jolteon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bb/135Jolteon.png/70px-135Jolteon.png,Jolteon,,Electric,Electric,1
+136,/wiki/Flareon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/dd/136Flareon.png/70px-136Flareon.png,Flareon,,Fire,Fire,1
+137,/wiki/Porygon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6b/137Porygon.png/70px-137Porygon.png,Porygon,,Normal,Normal,1
+138,/wiki/Omanyte_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/79/138Omanyte.png/70px-138Omanyte.png,Omanyte,,Rock,Water,1
+139,/wiki/Omastar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/43/139Omastar.png/70px-139Omastar.png,Omastar,,Rock,Water,1
+140,/wiki/Kabuto_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f9/140Kabuto.png/70px-140Kabuto.png,Kabuto,,Rock,Water,1
+141,/wiki/Kabutops_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/29/141Kabutops.png/70px-141Kabutops.png,Kabutops,,Rock,Water,1
+142,/wiki/Aerodactyl_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e8/142Aerodactyl.png/70px-142Aerodactyl.png,Aerodactyl,,Rock,Flying,1
+143,/wiki/Snorlax_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fb/143Snorlax.png/70px-143Snorlax.png,Snorlax,,Normal,Normal,1
+144,/wiki/Articuno_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4e/144Articuno.png/70px-144Articuno.png,Articuno,,Ice,Flying,1
+NA,/wiki/Articuno_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/df/144Articuno-Galar.png/70px-144Articuno-Galar.png,Articuno,Galarian Form,Psychic,Flying,1
+145,/wiki/Zapdos_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e3/145Zapdos.png/70px-145Zapdos.png,Zapdos,,Electric,Flying,1
+NA,/wiki/Zapdos_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/13/145Zapdos-Galar.png/70px-145Zapdos-Galar.png,Zapdos,Galarian Form,Fighting,Flying,1
+146,/wiki/Moltres_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1b/146Moltres.png/70px-146Moltres.png,Moltres,,Fire,Flying,1
+NA,/wiki/Moltres_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f7/146Moltres-Galar.png/70px-146Moltres-Galar.png,Moltres,Galarian Form,Dark,Flying,1
+147,/wiki/Dratini_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cc/147Dratini.png/70px-147Dratini.png,Dratini,,Dragon,Dragon,1
+148,/wiki/Dragonair_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/93/148Dragonair.png/70px-148Dragonair.png,Dragonair,,Dragon,Dragon,1
+149,/wiki/Dragonite_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8b/149Dragonite.png/70px-149Dragonite.png,Dragonite,,Dragon,Flying,1
+150,/wiki/Mewtwo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/78/150Mewtwo.png/70px-150Mewtwo.png,Mewtwo,,Psychic,Psychic,1
+151,/wiki/Mew_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b1/151Mew.png/70px-151Mew.png,Mew,,Psychic,Psychic,1
+152,/wiki/Chikorita_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bf/152Chikorita.png/70px-152Chikorita.png,Chikorita,,Grass,Grass,2
+153,/wiki/Bayleef_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/ca/153Bayleef.png/70px-153Bayleef.png,Bayleef,,Grass,Grass,2
+154,/wiki/Meganium_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d1/154Meganium.png/70px-154Meganium.png,Meganium,,Grass,Grass,2
+155,/wiki/Cyndaquil_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9b/155Cyndaquil.png/70px-155Cyndaquil.png,Cyndaquil,,Fire,Fire,2
+156,/wiki/Quilava_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b6/156Quilava.png/70px-156Quilava.png,Quilava,,Fire,Fire,2
+157,/wiki/Typhlosion_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/47/157Typhlosion.png/70px-157Typhlosion.png,Typhlosion,,Fire,Fire,2
+NA,/wiki/Typhlosion_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b7/157Typhlosion-Hisui.png/70px-157Typhlosion-Hisui.png,Typhlosion,Hisuian Form,Fire,Ghost,2
+158,/wiki/Totodile_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/df/158Totodile.png/70px-158Totodile.png,Totodile,,Water,Water,2
+159,/wiki/Croconaw_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a5/159Croconaw.png/70px-159Croconaw.png,Croconaw,,Water,Water,2
+160,/wiki/Feraligatr_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d5/160Feraligatr.png/70px-160Feraligatr.png,Feraligatr,,Water,Water,2
+161,/wiki/Sentret_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c5/161Sentret.png/70px-161Sentret.png,Sentret,,Normal,Normal,2
+162,/wiki/Furret_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4b/162Furret.png/70px-162Furret.png,Furret,,Normal,Normal,2
+163,/wiki/Hoothoot_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/53/163Hoothoot.png/70px-163Hoothoot.png,Hoothoot,,Normal,Flying,2
+164,/wiki/Noctowl_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fa/164Noctowl.png/70px-164Noctowl.png,Noctowl,,Normal,Flying,2
+165,/wiki/Ledyba_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bb/165Ledyba.png/70px-165Ledyba.png,Ledyba,,Bug,Flying,2
+166,/wiki/Ledian_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5b/166Ledian.png/70px-166Ledian.png,Ledian,,Bug,Flying,2
+167,/wiki/Spinarak_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/75/167Spinarak.png/70px-167Spinarak.png,Spinarak,,Bug,Poison,2
+168,/wiki/Ariados_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/76/168Ariados.png/70px-168Ariados.png,Ariados,,Bug,Poison,2
+169,/wiki/Crobat_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/17/169Crobat.png/70px-169Crobat.png,Crobat,,Poison,Flying,2
+170,/wiki/Chinchou_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d9/170Chinchou.png/70px-170Chinchou.png,Chinchou,,Water,Electric,2
+171,/wiki/Lanturn_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9b/171Lanturn.png/70px-171Lanturn.png,Lanturn,,Water,Electric,2
+172,/wiki/Pichu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b9/172Pichu.png/70px-172Pichu.png,Pichu,,Electric,Electric,2
+173,/wiki/Cleffa_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e4/173Cleffa.png/70px-173Cleffa.png,Cleffa,,Fairy,Fairy,2
+174,/wiki/Igglybuff_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4d/174Igglybuff.png/70px-174Igglybuff.png,Igglybuff,,Normal,Fairy,2
+175,/wiki/Togepi_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6b/175Togepi.png/70px-175Togepi.png,Togepi,,Fairy,Fairy,2
+176,/wiki/Togetic_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/11/176Togetic.png/70px-176Togetic.png,Togetic,,Fairy,Flying,2
+177,/wiki/Natu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5b/177Natu.png/70px-177Natu.png,Natu,,Psychic,Flying,2
+178,/wiki/Xatu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f4/178Xatu.png/70px-178Xatu.png,Xatu,,Psychic,Flying,2
+179,/wiki/Mareep_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6b/179Mareep.png/70px-179Mareep.png,Mareep,,Electric,Electric,2
+180,/wiki/Flaaffy_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6f/180Flaaffy.png/70px-180Flaaffy.png,Flaaffy,,Electric,Electric,2
+181,/wiki/Ampharos_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/47/181Ampharos.png/70px-181Ampharos.png,Ampharos,,Electric,Electric,2
+182,/wiki/Bellossom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cd/182Bellossom.png/70px-182Bellossom.png,Bellossom,,Grass,Grass,2
+183,/wiki/Marill_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/42/183Marill.png/70px-183Marill.png,Marill,,Water,Fairy,2
+184,/wiki/Azumarill_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a5/184Azumarill.png/70px-184Azumarill.png,Azumarill,,Water,Fairy,2
+185,/wiki/Sudowoodo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1e/185Sudowoodo.png/70px-185Sudowoodo.png,Sudowoodo,,Rock,Rock,2
+186,/wiki/Politoed_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a4/186Politoed.png/70px-186Politoed.png,Politoed,,Water,Water,2
+187,/wiki/Hoppip_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f8/187Hoppip.png/70px-187Hoppip.png,Hoppip,,Grass,Flying,2
+188,/wiki/Skiploom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4f/188Skiploom.png/70px-188Skiploom.png,Skiploom,,Grass,Flying,2
+189,/wiki/Jumpluff_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5e/189Jumpluff.png/70px-189Jumpluff.png,Jumpluff,,Grass,Flying,2
+190,/wiki/Aipom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/42/190Aipom.png/70px-190Aipom.png,Aipom,,Normal,Normal,2
+191,/wiki/Sunkern_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/95/191Sunkern.png/70px-191Sunkern.png,Sunkern,,Grass,Grass,2
+192,/wiki/Sunflora_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/98/192Sunflora.png/70px-192Sunflora.png,Sunflora,,Grass,Grass,2
+193,/wiki/Yanma_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/dd/193Yanma.png/70px-193Yanma.png,Yanma,,Bug,Flying,2
+194,/wiki/Wooper_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/78/194Wooper.png/70px-194Wooper.png,Wooper,,Water,Ground,2
+NA,/wiki/Wooper_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/15/194Wooper-Paldea.png/70px-194Wooper-Paldea.png,Wooper,Paldean Form,Poison,Ground,2
+195,/wiki/Quagsire_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a4/195Quagsire.png/70px-195Quagsire.png,Quagsire,,Water,Ground,2
+196,/wiki/Espeon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a7/196Espeon.png/70px-196Espeon.png,Espeon,,Psychic,Psychic,2
+197,/wiki/Umbreon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3d/197Umbreon.png/70px-197Umbreon.png,Umbreon,,Dark,Dark,2
+198,/wiki/Murkrow_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/33/198Murkrow.png/70px-198Murkrow.png,Murkrow,,Dark,Flying,2
+199,/wiki/Slowking_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e1/199Slowking.png/70px-199Slowking.png,Slowking,,Water,Psychic,2
+NA,/wiki/Slowking_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/ca/199Slowking-Galar.png/70px-199Slowking-Galar.png,Slowking,Galarian Form,Poison,Psychic,2
+200,/wiki/Misdreavus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/be/200Misdreavus.png/70px-200Misdreavus.png,Misdreavus,,Ghost,Ghost,2
+201,/wiki/Unown_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/77/201Unown.png/70px-201Unown.png,Unown,One form,Psychic,Psychic,2
+202,/wiki/Wobbuffet_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/17/202Wobbuffet.png/70px-202Wobbuffet.png,Wobbuffet,,Psychic,Psychic,2
+203,/wiki/Girafarig_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/11/203Girafarig.png/70px-203Girafarig.png,Girafarig,,Normal,Psychic,2
+204,/wiki/Pineco_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0b/204Pineco.png/70px-204Pineco.png,Pineco,,Bug,Bug,2
+205,/wiki/Forretress_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/68/205Forretress.png/70px-205Forretress.png,Forretress,,Bug,Steel,2
+206,/wiki/Dunsparce_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/20/206Dunsparce.png/70px-206Dunsparce.png,Dunsparce,,Normal,Normal,2
+207,/wiki/Gligar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/04/207Gligar.png/70px-207Gligar.png,Gligar,,Ground,Flying,2
+208,/wiki/Steelix_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/ba/208Steelix.png/70px-208Steelix.png,Steelix,,Steel,Ground,2
+209,/wiki/Snubbull_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7f/209Snubbull.png/70px-209Snubbull.png,Snubbull,,Fairy,Fairy,2
+210,/wiki/Granbull_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b1/210Granbull.png/70px-210Granbull.png,Granbull,,Fairy,Fairy,2
+211,/wiki/Qwilfish_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/21/211Qwilfish.png/70px-211Qwilfish.png,Qwilfish,,Water,Poison,2
+NA,/wiki/Qwilfish_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/12/211Qwilfish-Hisui.png/70px-211Qwilfish-Hisui.png,Qwilfish,Hisuian Form,Dark,Poison,2
+212,/wiki/Scizor_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/55/212Scizor.png/70px-212Scizor.png,Scizor,,Bug,Steel,2
+213,/wiki/Shuckle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c7/213Shuckle.png/70px-213Shuckle.png,Shuckle,,Bug,Rock,2
+214,/wiki/Heracross_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/47/214Heracross.png/70px-214Heracross.png,Heracross,,Bug,Fighting,2
+215,/wiki/Sneasel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/215Sneasel.png/70px-215Sneasel.png,Sneasel,,Dark,Ice,2
+NA,/wiki/Sneasel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/00/215Sneasel-Hisui.png/70px-215Sneasel-Hisui.png,Sneasel,Hisuian Form,Fighting,Poison,2
+216,/wiki/Teddiursa_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e9/216Teddiursa.png/70px-216Teddiursa.png,Teddiursa,,Normal,Normal,2
+217,/wiki/Ursaring_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e9/217Ursaring.png/70px-217Ursaring.png,Ursaring,,Normal,Normal,2
+218,/wiki/Slugma_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/68/218Slugma.png/70px-218Slugma.png,Slugma,,Fire,Fire,2
+219,/wiki/Magcargo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/65/219Magcargo.png/70px-219Magcargo.png,Magcargo,,Fire,Rock,2
+220,/wiki/Swinub_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b5/220Swinub.png/70px-220Swinub.png,Swinub,,Ice,Ground,2
+221,/wiki/Piloswine_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/49/221Piloswine.png/70px-221Piloswine.png,Piloswine,,Ice,Ground,2
+222,/wiki/Corsola_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fc/222Corsola.png/70px-222Corsola.png,Corsola,,Water,Rock,2
+NA,/wiki/Corsola_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/ce/222Corsola-Galar.png/70px-222Corsola-Galar.png,Corsola,Galarian Form,Ghost,Ghost,2
+223,/wiki/Remoraid_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/95/223Remoraid.png/70px-223Remoraid.png,Remoraid,,Water,Water,2
+224,/wiki/Octillery_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cb/224Octillery.png/70px-224Octillery.png,Octillery,,Water,Water,2
+225,/wiki/Delibird_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3f/225Delibird.png/70px-225Delibird.png,Delibird,,Ice,Flying,2
+226,/wiki/Mantine_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c5/226Mantine.png/70px-226Mantine.png,Mantine,,Water,Flying,2
+227,/wiki/Skarmory_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/35/227Skarmory.png/70px-227Skarmory.png,Skarmory,,Steel,Flying,2
+228,/wiki/Houndour_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/53/228Houndour.png/70px-228Houndour.png,Houndour,,Dark,Fire,2
+229,/wiki/Houndoom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/51/229Houndoom.png/70px-229Houndoom.png,Houndoom,,Dark,Fire,2
+230,/wiki/Kingdra_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3c/230Kingdra.png/70px-230Kingdra.png,Kingdra,,Water,Dragon,2
+231,/wiki/Phanpy_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d3/231Phanpy.png/70px-231Phanpy.png,Phanpy,,Ground,Ground,2
+232,/wiki/Donphan_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/53/232Donphan.png/70px-232Donphan.png,Donphan,,Ground,Ground,2
+233,/wiki/Porygon2_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/99/233Porygon2.png/70px-233Porygon2.png,Porygon2,,Normal,Normal,2
+234,/wiki/Stantler_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/50/234Stantler.png/70px-234Stantler.png,Stantler,,Normal,Normal,2
+235,/wiki/Smeargle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/92/235Smeargle.png/70px-235Smeargle.png,Smeargle,,Normal,Normal,2
+236,/wiki/Tyrogue_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c7/236Tyrogue.png/70px-236Tyrogue.png,Tyrogue,,Fighting,Fighting,2
+237,/wiki/Hitmontop_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/94/237Hitmontop.png/70px-237Hitmontop.png,Hitmontop,,Fighting,Fighting,2
+238,/wiki/Smoochum_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0e/238Smoochum.png/70px-238Smoochum.png,Smoochum,,Ice,Psychic,2
+239,/wiki/Elekid_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5d/239Elekid.png/70px-239Elekid.png,Elekid,,Electric,Electric,2
+240,/wiki/Magby_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cb/240Magby.png/70px-240Magby.png,Magby,,Fire,Fire,2
+241,/wiki/Miltank_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/13/241Miltank.png/70px-241Miltank.png,Miltank,,Normal,Normal,2
+242,/wiki/Blissey_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/56/242Blissey.png/70px-242Blissey.png,Blissey,,Normal,Normal,2
+243,/wiki/Raikou_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c1/243Raikou.png/70px-243Raikou.png,Raikou,,Electric,Electric,2
+244,/wiki/Entei_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f9/244Entei.png/70px-244Entei.png,Entei,,Fire,Fire,2
+245,/wiki/Suicune_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/da/245Suicune.png/70px-245Suicune.png,Suicune,,Water,Water,2
+246,/wiki/Larvitar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/70/246Larvitar.png/70px-246Larvitar.png,Larvitar,,Rock,Ground,2
+247,/wiki/Pupitar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a1/247Pupitar.png/70px-247Pupitar.png,Pupitar,,Rock,Ground,2
+248,/wiki/Tyranitar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/82/248Tyranitar.png/70px-248Tyranitar.png,Tyranitar,,Rock,Dark,2
+249,/wiki/Lugia_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/44/249Lugia.png/70px-249Lugia.png,Lugia,,Psychic,Flying,2
+250,/wiki/Ho-Oh_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/67/250Ho-Oh.png/70px-250Ho-Oh.png,Ho-Oh,,Fire,Flying,2
+251,/wiki/Celebi_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e7/251Celebi.png/70px-251Celebi.png,Celebi,,Psychic,Grass,2
+252,/wiki/Treecko_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2c/252Treecko.png/70px-252Treecko.png,Treecko,,Grass,Grass,3
+253,/wiki/Grovyle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ea/253Grovyle.png/70px-253Grovyle.png,Grovyle,,Grass,Grass,3
+254,/wiki/Sceptile_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3e/254Sceptile.png/70px-254Sceptile.png,Sceptile,,Grass,Grass,3
+255,/wiki/Torchic_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/91/255Torchic.png/70px-255Torchic.png,Torchic,,Fire,Fire,3
+256,/wiki/Combusken_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/29/256Combusken.png/70px-256Combusken.png,Combusken,,Fire,Fighting,3
+257,/wiki/Blaziken_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/90/257Blaziken.png/70px-257Blaziken.png,Blaziken,,Fire,Fighting,3
+258,/wiki/Mudkip_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/60/258Mudkip.png/70px-258Mudkip.png,Mudkip,,Water,Water,3
+259,/wiki/Marshtomp_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/27/259Marshtomp.png/70px-259Marshtomp.png,Marshtomp,,Water,Ground,3
+260,/wiki/Swampert_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b6/260Swampert.png/70px-260Swampert.png,Swampert,,Water,Ground,3
+261,/wiki/Poochyena_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fc/261Poochyena.png/70px-261Poochyena.png,Poochyena,,Dark,Dark,3
+262,/wiki/Mightyena_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f1/262Mightyena.png/70px-262Mightyena.png,Mightyena,,Dark,Dark,3
+263,/wiki/Zigzagoon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/47/263Zigzagoon.png/70px-263Zigzagoon.png,Zigzagoon,,Normal,Normal,3
+NA,/wiki/Zigzagoon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b0/263Zigzagoon-Galar.png/70px-263Zigzagoon-Galar.png,Zigzagoon,Galarian Form,Dark,Normal,3
+264,/wiki/Linoone_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f7/264Linoone.png/70px-264Linoone.png,Linoone,,Normal,Normal,3
+NA,/wiki/Linoone_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8e/264Linoone-Galar.png/70px-264Linoone-Galar.png,Linoone,Galarian Form,Dark,Normal,3
+265,/wiki/Wurmple_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/76/265Wurmple.png/70px-265Wurmple.png,Wurmple,,Bug,Bug,3
+266,/wiki/Silcoon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ef/266Silcoon.png/70px-266Silcoon.png,Silcoon,,Bug,Bug,3
+267,/wiki/Beautifly_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4c/267Beautifly.png/70px-267Beautifly.png,Beautifly,,Bug,Flying,3
+268,/wiki/Cascoon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a3/268Cascoon.png/70px-268Cascoon.png,Cascoon,,Bug,Bug,3
+269,/wiki/Dustox_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/34/269Dustox.png/70px-269Dustox.png,Dustox,,Bug,Poison,3
+270,/wiki/Lotad_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ee/270Lotad.png/70px-270Lotad.png,Lotad,,Water,Grass,3
+271,/wiki/Lombre_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8b/271Lombre.png/70px-271Lombre.png,Lombre,,Water,Grass,3
+272,/wiki/Ludicolo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/ff/272Ludicolo.png/70px-272Ludicolo.png,Ludicolo,,Water,Grass,3
+273,/wiki/Seedot_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/84/273Seedot.png/70px-273Seedot.png,Seedot,,Grass,Grass,3
+274,/wiki/Nuzleaf_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/07/274Nuzleaf.png/70px-274Nuzleaf.png,Nuzleaf,,Grass,Dark,3
+275,/wiki/Shiftry_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f7/275Shiftry.png/70px-275Shiftry.png,Shiftry,,Grass,Dark,3
+276,/wiki/Taillow_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e4/276Taillow.png/70px-276Taillow.png,Taillow,,Normal,Flying,3
+277,/wiki/Swellow_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/45/277Swellow.png/70px-277Swellow.png,Swellow,,Normal,Flying,3
+278,/wiki/Wingull_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/39/278Wingull.png/70px-278Wingull.png,Wingull,,Water,Flying,3
+279,/wiki/Pelipper_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f2/279Pelipper.png/70px-279Pelipper.png,Pelipper,,Water,Flying,3
+280,/wiki/Ralts_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e1/280Ralts.png/70px-280Ralts.png,Ralts,,Psychic,Fairy,3
+281,/wiki/Kirlia_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/00/281Kirlia.png/70px-281Kirlia.png,Kirlia,,Psychic,Fairy,3
+282,/wiki/Gardevoir_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/99/282Gardevoir.png/70px-282Gardevoir.png,Gardevoir,,Psychic,Fairy,3
+283,/wiki/Surskit_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f6/283Surskit.png/70px-283Surskit.png,Surskit,,Bug,Water,3
+284,/wiki/Masquerain_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0a/284Masquerain.png/70px-284Masquerain.png,Masquerain,,Bug,Flying,3
+285,/wiki/Shroomish_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d8/285Shroomish.png/70px-285Shroomish.png,Shroomish,,Grass,Grass,3
+286,/wiki/Breloom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/de/286Breloom.png/70px-286Breloom.png,Breloom,,Grass,Fighting,3
+287,/wiki/Slakoth_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d2/287Slakoth.png/70px-287Slakoth.png,Slakoth,,Normal,Normal,3
+288,/wiki/Vigoroth_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/61/288Vigoroth.png/70px-288Vigoroth.png,Vigoroth,,Normal,Normal,3
+289,/wiki/Slaking_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/289Slaking.png/70px-289Slaking.png,Slaking,,Normal,Normal,3
+290,/wiki/Nincada_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/90/290Nincada.png/70px-290Nincada.png,Nincada,,Bug,Ground,3
+291,/wiki/Ninjask_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/76/291Ninjask.png/70px-291Ninjask.png,Ninjask,,Bug,Flying,3
+292,/wiki/Shedinja_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/59/292Shedinja.png/70px-292Shedinja.png,Shedinja,,Bug,Ghost,3
+293,/wiki/Whismur_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6c/293Whismur.png/70px-293Whismur.png,Whismur,,Normal,Normal,3
+294,/wiki/Loudred_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/12/294Loudred.png/70px-294Loudred.png,Loudred,,Normal,Normal,3
+295,/wiki/Exploud_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/12/295Exploud.png/70px-295Exploud.png,Exploud,,Normal,Normal,3
+296,/wiki/Makuhita_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b6/296Makuhita.png/70px-296Makuhita.png,Makuhita,,Fighting,Fighting,3
+297,/wiki/Hariyama_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6f/297Hariyama.png/70px-297Hariyama.png,Hariyama,,Fighting,Fighting,3
+298,/wiki/Azurill_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ac/298Azurill.png/70px-298Azurill.png,Azurill,,Normal,Fairy,3
+299,/wiki/Nosepass_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/89/299Nosepass.png/70px-299Nosepass.png,Nosepass,,Rock,Rock,3
+300,/wiki/Skitty_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8a/300Skitty.png/70px-300Skitty.png,Skitty,,Normal,Normal,3
+301,/wiki/Delcatty_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f4/301Delcatty.png/70px-301Delcatty.png,Delcatty,,Normal,Normal,3
+302,/wiki/Sableye_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d3/302Sableye.png/70px-302Sableye.png,Sableye,,Dark,Ghost,3
+303,/wiki/Mawile_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c0/303Mawile.png/70px-303Mawile.png,Mawile,,Steel,Fairy,3
+304,/wiki/Aron_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bb/304Aron.png/70px-304Aron.png,Aron,,Steel,Rock,3
+305,/wiki/Lairon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bf/305Lairon.png/70px-305Lairon.png,Lairon,,Steel,Rock,3
+306,/wiki/Aggron_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6d/306Aggron.png/70px-306Aggron.png,Aggron,,Steel,Rock,3
+307,/wiki/Meditite_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/307Meditite.png/70px-307Meditite.png,Meditite,,Fighting,Psychic,3
+308,/wiki/Medicham_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/05/308Medicham.png/70px-308Medicham.png,Medicham,,Fighting,Psychic,3
+309,/wiki/Electrike_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/47/309Electrike.png/70px-309Electrike.png,Electrike,,Electric,Electric,3
+310,/wiki/Manectric_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bb/310Manectric.png/70px-310Manectric.png,Manectric,,Electric,Electric,3
+311,/wiki/Plusle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a3/311Plusle.png/70px-311Plusle.png,Plusle,,Electric,Electric,3
+312,/wiki/Minun_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e7/312Minun.png/70px-312Minun.png,Minun,,Electric,Electric,3
+313,/wiki/Volbeat_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d6/313Volbeat.png/70px-313Volbeat.png,Volbeat,,Bug,Bug,3
+314,/wiki/Illumise_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/55/314Illumise.png/70px-314Illumise.png,Illumise,,Bug,Bug,3
+315,/wiki/Roselia_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f1/315Roselia.png/70px-315Roselia.png,Roselia,,Grass,Poison,3
+316,/wiki/Gulpin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f0/316Gulpin.png/70px-316Gulpin.png,Gulpin,,Poison,Poison,3
+317,/wiki/Swalot_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ad/317Swalot.png/70px-317Swalot.png,Swalot,,Poison,Poison,3
+318,/wiki/Carvanha_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/98/318Carvanha.png/70px-318Carvanha.png,Carvanha,,Water,Dark,3
+319,/wiki/Sharpedo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a8/319Sharpedo.png/70px-319Sharpedo.png,Sharpedo,,Water,Dark,3
+320,/wiki/Wailmer_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/320Wailmer.png/70px-320Wailmer.png,Wailmer,,Water,Water,3
+321,/wiki/Wailord_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b9/321Wailord.png/70px-321Wailord.png,Wailord,,Water,Water,3
+322,/wiki/Numel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c6/322Numel.png/70px-322Numel.png,Numel,,Fire,Ground,3
+323,/wiki/Camerupt_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7d/323Camerupt.png/70px-323Camerupt.png,Camerupt,,Fire,Ground,3
+324,/wiki/Torkoal_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3b/324Torkoal.png/70px-324Torkoal.png,Torkoal,,Fire,Fire,3
+325,/wiki/Spoink_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9e/325Spoink.png/70px-325Spoink.png,Spoink,,Psychic,Psychic,3
+326,/wiki/Grumpig_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/54/326Grumpig.png/70px-326Grumpig.png,Grumpig,,Psychic,Psychic,3
+327,/wiki/Spinda_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8f/327Spinda.png/70px-327Spinda.png,Spinda,,Normal,Normal,3
+328,/wiki/Trapinch_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/76/328Trapinch.png/70px-328Trapinch.png,Trapinch,,Ground,Ground,3
+329,/wiki/Vibrava_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/af/329Vibrava.png/70px-329Vibrava.png,Vibrava,,Ground,Dragon,3
+330,/wiki/Flygon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f1/330Flygon.png/70px-330Flygon.png,Flygon,,Ground,Dragon,3
+331,/wiki/Cacnea_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/12/331Cacnea.png/70px-331Cacnea.png,Cacnea,,Grass,Grass,3
+332,/wiki/Cacturne_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/41/332Cacturne.png/70px-332Cacturne.png,Cacturne,,Grass,Dark,3
+333,/wiki/Swablu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/99/333Swablu.png/70px-333Swablu.png,Swablu,,Normal,Flying,3
+334,/wiki/Altaria_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/da/334Altaria.png/70px-334Altaria.png,Altaria,,Dragon,Flying,3
+335,/wiki/Zangoose_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d3/335Zangoose.png/70px-335Zangoose.png,Zangoose,,Normal,Normal,3
+336,/wiki/Seviper_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d6/336Seviper.png/70px-336Seviper.png,Seviper,,Poison,Poison,3
+337,/wiki/Lunatone_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/eb/337Lunatone.png/70px-337Lunatone.png,Lunatone,,Rock,Psychic,3
+338,/wiki/Solrock_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/90/338Solrock.png/70px-338Solrock.png,Solrock,,Rock,Psychic,3
+339,/wiki/Barboach_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/60/339Barboach.png/70px-339Barboach.png,Barboach,,Water,Ground,3
+340,/wiki/Whiscash_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/60/340Whiscash.png/70px-340Whiscash.png,Whiscash,,Water,Ground,3
+341,/wiki/Corphish_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3d/341Corphish.png/70px-341Corphish.png,Corphish,,Water,Water,3
+342,/wiki/Crawdaunt_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f4/342Crawdaunt.png/70px-342Crawdaunt.png,Crawdaunt,,Water,Dark,3
+343,/wiki/Baltoy_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8b/343Baltoy.png/70px-343Baltoy.png,Baltoy,,Ground,Psychic,3
+344,/wiki/Claydol_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/07/344Claydol.png/70px-344Claydol.png,Claydol,,Ground,Psychic,3
+345,/wiki/Lileep_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/34/345Lileep.png/70px-345Lileep.png,Lileep,,Rock,Grass,3
+346,/wiki/Cradily_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/38/346Cradily.png/70px-346Cradily.png,Cradily,,Rock,Grass,3
+347,/wiki/Anorith_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/45/347Anorith.png/70px-347Anorith.png,Anorith,,Rock,Bug,3
+348,/wiki/Armaldo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1d/348Armaldo.png/70px-348Armaldo.png,Armaldo,,Rock,Bug,3
+349,/wiki/Feebas_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4b/349Feebas.png/70px-349Feebas.png,Feebas,,Water,Water,3
+350,/wiki/Milotic_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/36/350Milotic.png/70px-350Milotic.png,Milotic,,Water,Water,3
+351,/wiki/Castform_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f3/351Castform.png/70px-351Castform.png,Castform,Normal,Normal,Normal,3
+NA,/wiki/Castform_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b6/351Castform-Sunny.png/70px-351Castform-Sunny.png,Castform,Sunny Form,Fire,Fire,3
+NA,/wiki/Castform_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/89/351Castform-Rainy.png/70px-351Castform-Rainy.png,Castform,Rainy Form,Water,Water,3
+NA,/wiki/Castform_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f9/351Castform-Snowy.png/70px-351Castform-Snowy.png,Castform,Snowy Form,Ice,Ice,3
+352,/wiki/Kecleon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/50/352Kecleon.png/70px-352Kecleon.png,Kecleon,,Normal,Normal,3
+353,/wiki/Shuppet_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4b/353Shuppet.png/70px-353Shuppet.png,Shuppet,,Ghost,Ghost,3
+354,/wiki/Banette_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0a/354Banette.png/70px-354Banette.png,Banette,,Ghost,Ghost,3
+355,/wiki/Duskull_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e2/355Duskull.png/70px-355Duskull.png,Duskull,,Ghost,Ghost,3
+356,/wiki/Dusclops_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/12/356Dusclops.png/70px-356Dusclops.png,Dusclops,,Ghost,Ghost,3
+357,/wiki/Tropius_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/dd/357Tropius.png/70px-357Tropius.png,Tropius,,Grass,Flying,3
+358,/wiki/Chimecho_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e5/358Chimecho.png/70px-358Chimecho.png,Chimecho,,Psychic,Psychic,3
+359,/wiki/Absol_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/00/359Absol.png/70px-359Absol.png,Absol,,Dark,Dark,3
+360,/wiki/Wynaut_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d0/360Wynaut.png/70px-360Wynaut.png,Wynaut,,Psychic,Psychic,3
+361,/wiki/Snorunt_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6b/361Snorunt.png/70px-361Snorunt.png,Snorunt,,Ice,Ice,3
+362,/wiki/Glalie_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/62/362Glalie.png/70px-362Glalie.png,Glalie,,Ice,Ice,3
+363,/wiki/Spheal_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9f/363Spheal.png/70px-363Spheal.png,Spheal,,Ice,Water,3
+364,/wiki/Sealeo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f6/364Sealeo.png/70px-364Sealeo.png,Sealeo,,Ice,Water,3
+365,/wiki/Walrein_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/61/365Walrein.png/70px-365Walrein.png,Walrein,,Ice,Water,3
+366,/wiki/Clamperl_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/11/366Clamperl.png/70px-366Clamperl.png,Clamperl,,Water,Water,3
+367,/wiki/Huntail_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/11/367Huntail.png/70px-367Huntail.png,Huntail,,Water,Water,3
+368,/wiki/Gorebyss_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/37/368Gorebyss.png/70px-368Gorebyss.png,Gorebyss,,Water,Water,3
+369,/wiki/Relicanth_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/78/369Relicanth.png/70px-369Relicanth.png,Relicanth,,Water,Rock,3
+370,/wiki/Luvdisc_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1d/370Luvdisc.png/70px-370Luvdisc.png,Luvdisc,,Water,Water,3
+371,/wiki/Bagon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d2/371Bagon.png/70px-371Bagon.png,Bagon,,Dragon,Dragon,3
+372,/wiki/Shelgon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a5/372Shelgon.png/70px-372Shelgon.png,Shelgon,,Dragon,Dragon,3
+373,/wiki/Salamence_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/41/373Salamence.png/70px-373Salamence.png,Salamence,,Dragon,Flying,3
+374,/wiki/Beldum_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d4/374Beldum.png/70px-374Beldum.png,Beldum,,Steel,Psychic,3
+375,/wiki/Metang_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/62/375Metang.png/70px-375Metang.png,Metang,,Steel,Psychic,3
+376,/wiki/Metagross_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/05/376Metagross.png/70px-376Metagross.png,Metagross,,Steel,Psychic,3
+377,/wiki/Regirock_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/aa/377Regirock.png/70px-377Regirock.png,Regirock,,Rock,Rock,3
+378,/wiki/Regice_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fe/378Regice.png/70px-378Regice.png,Regice,,Ice,Ice,3
+379,/wiki/Registeel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/22/379Registeel.png/70px-379Registeel.png,Registeel,,Steel,Steel,3
+380,/wiki/Latias_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/24/380Latias.png/70px-380Latias.png,Latias,,Dragon,Psychic,3
+381,/wiki/Latios_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/52/381Latios.png/70px-381Latios.png,Latios,,Dragon,Psychic,3
+382,/wiki/Kyogre_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/41/382Kyogre.png/70px-382Kyogre.png,Kyogre,Kyogre,Water,Water,3
+383,/wiki/Groudon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/70/383Groudon.png/70px-383Groudon.png,Groudon,Groudon,Ground,Ground,3
+384,/wiki/Rayquaza_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e4/384Rayquaza.png/70px-384Rayquaza.png,Rayquaza,,Dragon,Flying,3
+385,/wiki/Jirachi_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/85/385Jirachi.png/70px-385Jirachi.png,Jirachi,,Steel,Psychic,3
+386,/wiki/Deoxys_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e7/386Deoxys.png/70px-386Deoxys.png,Deoxys,Normal Forme,Psychic,Psychic,3
+NA,/wiki/Deoxys_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d8/386Deoxys-Attack.png/70px-386Deoxys-Attack.png,Deoxys,Attack Forme,Psychic,Psychic,3
+NA,/wiki/Deoxys_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cc/386Deoxys-Defense.png/70px-386Deoxys-Defense.png,Deoxys,Defense Forme,Psychic,Psychic,3
+NA,/wiki/Deoxys_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2b/386Deoxys-Speed.png/70px-386Deoxys-Speed.png,Deoxys,Speed Forme,Psychic,Psychic,3
+387,/wiki/Turtwig_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5c/387Turtwig.png/70px-387Turtwig.png,Turtwig,,Grass,Grass,4
+388,/wiki/Grotle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/53/388Grotle.png/70px-388Grotle.png,Grotle,,Grass,Grass,4
+389,/wiki/Torterra_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/df/389Torterra.png/70px-389Torterra.png,Torterra,,Grass,Ground,4
+390,/wiki/Chimchar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/76/390Chimchar.png/70px-390Chimchar.png,Chimchar,,Fire,Fire,4
+391,/wiki/Monferno_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2e/391Monferno.png/70px-391Monferno.png,Monferno,,Fire,Fighting,4
+392,/wiki/Infernape_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fb/392Infernape.png/70px-392Infernape.png,Infernape,,Fire,Fighting,4
+393,/wiki/Piplup_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b1/393Piplup.png/70px-393Piplup.png,Piplup,,Water,Water,4
+394,/wiki/Prinplup_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/df/394Prinplup.png/70px-394Prinplup.png,Prinplup,,Water,Water,4
+395,/wiki/Empoleon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7f/395Empoleon.png/70px-395Empoleon.png,Empoleon,,Water,Steel,4
+396,/wiki/Starly_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/af/396Starly.png/70px-396Starly.png,Starly,,Normal,Flying,4
+397,/wiki/Staravia_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f8/397Staravia.png/70px-397Staravia.png,Staravia,,Normal,Flying,4
+398,/wiki/Staraptor_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5e/398Staraptor.png/70px-398Staraptor.png,Staraptor,,Normal,Flying,4
+399,/wiki/Bidoof_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f5/399Bidoof.png/70px-399Bidoof.png,Bidoof,,Normal,Normal,4
+400,/wiki/Bibarel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/91/400Bibarel.png/70px-400Bibarel.png,Bibarel,,Normal,Water,4
+401,/wiki/Kricketot_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/33/401Kricketot.png/70px-401Kricketot.png,Kricketot,,Bug,Bug,4
+402,/wiki/Kricketune_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e5/402Kricketune.png/70px-402Kricketune.png,Kricketune,,Bug,Bug,4
+403,/wiki/Shinx_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/32/403Shinx.png/70px-403Shinx.png,Shinx,,Electric,Electric,4
+404,/wiki/Luxio_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/49/404Luxio.png/70px-404Luxio.png,Luxio,,Electric,Electric,4
+405,/wiki/Luxray_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a7/405Luxray.png/70px-405Luxray.png,Luxray,,Electric,Electric,4
+406,/wiki/Budew_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d3/406Budew.png/70px-406Budew.png,Budew,,Grass,Poison,4
+407,/wiki/Roserade_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/05/407Roserade.png/70px-407Roserade.png,Roserade,,Grass,Poison,4
+408,/wiki/Cranidos_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cd/408Cranidos.png/70px-408Cranidos.png,Cranidos,,Rock,Rock,4
+409,/wiki/Rampardos_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8a/409Rampardos.png/70px-409Rampardos.png,Rampardos,,Rock,Rock,4
+410,/wiki/Shieldon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e2/410Shieldon.png/70px-410Shieldon.png,Shieldon,,Rock,Steel,4
+411,/wiki/Bastiodon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bc/411Bastiodon.png/70px-411Bastiodon.png,Bastiodon,,Rock,Steel,4
+412,/wiki/Burmy_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c9/412Burmy-Plant.png/70px-412Burmy-Plant.png,Burmy,Plant Cloak,Bug,Bug,4
+NA,/wiki/Burmy_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1f/412Burmy-Sandy.png/70px-412Burmy-Sandy.png,Burmy,Sandy Cloak,Bug,Bug,4
+NA,/wiki/Burmy_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8e/412Burmy-Trash.png/70px-412Burmy-Trash.png,Burmy,Trash Cloak,Bug,Bug,4
+413,/wiki/Wormadam_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/db/413Wormadam-Plant.png/70px-413Wormadam-Plant.png,Wormadam,Plant Cloak,Bug,Grass,4
+NA,/wiki/Wormadam_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1c/413Wormadam-Sandy.png/70px-413Wormadam-Sandy.png,Wormadam,Sandy Cloak,Bug,Ground,4
+NA,/wiki/Wormadam_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0b/413Wormadam-Trash.png/70px-413Wormadam-Trash.png,Wormadam,Trash Cloak,Bug,Steel,4
+414,/wiki/Mothim_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/18/414Mothim.png/70px-414Mothim.png,Mothim,,Bug,Flying,4
+415,/wiki/Combee_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b6/415Combee.png/70px-415Combee.png,Combee,,Bug,Flying,4
+416,/wiki/Vespiquen_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2c/416Vespiquen.png/70px-416Vespiquen.png,Vespiquen,,Bug,Flying,4
+417,/wiki/Pachirisu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f4/417Pachirisu.png/70px-417Pachirisu.png,Pachirisu,,Electric,Electric,4
+418,/wiki/Buizel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/83/418Buizel.png/70px-418Buizel.png,Buizel,,Water,Water,4
+419,/wiki/Floatzel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bf/419Floatzel.png/70px-419Floatzel.png,Floatzel,,Water,Water,4
+420,/wiki/Cherubi_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a7/420Cherubi.png/70px-420Cherubi.png,Cherubi,,Grass,Grass,4
+421,/wiki/Cherrim_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/25/421Cherrim-Overcast.png/70px-421Cherrim-Overcast.png,Cherrim,Overcast Form,Grass,Grass,4
+NA,/wiki/Cherrim_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bc/421Cherrim-Sunny.png/70px-421Cherrim-Sunny.png,Cherrim,Sunshine Form,Grass,Grass,4
+422,/wiki/Shellos_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/422Shellos-West.png/70px-422Shellos-West.png,Shellos,West Sea,Water,Water,4
+NA,/wiki/Shellos_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d5/422Shellos-East.png/70px-422Shellos-East.png,Shellos,East Sea,Water,Water,4
+423,/wiki/Gastrodon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1d/423Gastrodon-West.png/70px-423Gastrodon-West.png,Gastrodon,West Sea,Water,Ground,4
+NA,/wiki/Gastrodon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1b/423Gastrodon-East.png/70px-423Gastrodon-East.png,Gastrodon,East Sea,Water,Ground,4
+424,/wiki/Ambipom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/86/424Ambipom.png/70px-424Ambipom.png,Ambipom,,Normal,Normal,4
+425,/wiki/Drifloon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/eb/425Drifloon.png/70px-425Drifloon.png,Drifloon,,Ghost,Flying,4
+426,/wiki/Drifblim_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/426Drifblim.png/70px-426Drifblim.png,Drifblim,,Ghost,Flying,4
+427,/wiki/Buneary_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a7/427Buneary.png/70px-427Buneary.png,Buneary,,Normal,Normal,4
+428,/wiki/Lopunny_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c9/428Lopunny.png/70px-428Lopunny.png,Lopunny,,Normal,Normal,4
+429,/wiki/Mismagius_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b4/429Mismagius.png/70px-429Mismagius.png,Mismagius,,Ghost,Ghost,4
+430,/wiki/Honchkrow_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/46/430Honchkrow.png/70px-430Honchkrow.png,Honchkrow,,Dark,Flying,4
+431,/wiki/Glameow_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/26/431Glameow.png/70px-431Glameow.png,Glameow,,Normal,Normal,4
+432,/wiki/Purugly_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/80/432Purugly.png/70px-432Purugly.png,Purugly,,Normal,Normal,4
+433,/wiki/Chingling_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ed/433Chingling.png/70px-433Chingling.png,Chingling,,Psychic,Psychic,4
+434,/wiki/Stunky_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/75/434Stunky.png/70px-434Stunky.png,Stunky,,Poison,Dark,4
+435,/wiki/Skuntank_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bc/435Skuntank.png/70px-435Skuntank.png,Skuntank,,Poison,Dark,4
+436,/wiki/Bronzor_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c1/436Bronzor.png/70px-436Bronzor.png,Bronzor,,Steel,Psychic,4
+437,/wiki/Bronzong_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/aa/437Bronzong.png/70px-437Bronzong.png,Bronzong,,Steel,Psychic,4
+438,/wiki/Bonsly_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e2/438Bonsly.png/70px-438Bonsly.png,Bonsly,,Rock,Rock,4
+439,/wiki/Mime_Jr._(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/37/439Mime_Jr.png/70px-439Mime_Jr.png,Mime Jr.,,Psychic,Fairy,4
+440,/wiki/Happiny_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/27/440Happiny.png/70px-440Happiny.png,Happiny,,Normal,Normal,4
+441,/wiki/Chatot_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bf/441Chatot.png/70px-441Chatot.png,Chatot,,Normal,Flying,4
+442,/wiki/Spiritomb_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8e/442Spiritomb.png/70px-442Spiritomb.png,Spiritomb,,Ghost,Dark,4
+443,/wiki/Gible_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/68/443Gible.png/70px-443Gible.png,Gible,,Dragon,Ground,4
+444,/wiki/Gabite_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9d/444Gabite.png/70px-444Gabite.png,Gabite,,Dragon,Ground,4
+445,/wiki/Garchomp_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fa/445Garchomp.png/70px-445Garchomp.png,Garchomp,,Dragon,Ground,4
+446,/wiki/Munchlax_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b2/446Munchlax.png/70px-446Munchlax.png,Munchlax,,Normal,Normal,4
+447,/wiki/Riolu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a2/447Riolu.png/70px-447Riolu.png,Riolu,,Fighting,Fighting,4
+448,/wiki/Lucario_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d7/448Lucario.png/70px-448Lucario.png,Lucario,,Fighting,Steel,4
+449,/wiki/Hippopotas_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ab/449Hippopotas.png/70px-449Hippopotas.png,Hippopotas,,Ground,Ground,4
+450,/wiki/Hippowdon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5f/450Hippowdon.png/70px-450Hippowdon.png,Hippowdon,,Ground,Ground,4
+451,/wiki/Skorupi_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/47/451Skorupi.png/70px-451Skorupi.png,Skorupi,,Poison,Bug,4
+452,/wiki/Drapion_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/13/452Drapion.png/70px-452Drapion.png,Drapion,,Poison,Dark,4
+453,/wiki/Croagunk_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fa/453Croagunk.png/70px-453Croagunk.png,Croagunk,,Poison,Fighting,4
+454,/wiki/Toxicroak_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8b/454Toxicroak.png/70px-454Toxicroak.png,Toxicroak,,Poison,Fighting,4
+455,/wiki/Carnivine_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/df/455Carnivine.png/70px-455Carnivine.png,Carnivine,,Grass,Grass,4
+456,/wiki/Finneon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/45/456Finneon.png/70px-456Finneon.png,Finneon,,Water,Water,4
+457,/wiki/Lumineon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f0/457Lumineon.png/70px-457Lumineon.png,Lumineon,,Water,Water,4
+458,/wiki/Mantyke_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bc/458Mantyke.png/70px-458Mantyke.png,Mantyke,,Water,Flying,4
+459,/wiki/Snover_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d2/459Snover.png/70px-459Snover.png,Snover,,Grass,Ice,4
+460,/wiki/Abomasnow_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3b/460Abomasnow.png/70px-460Abomasnow.png,Abomasnow,,Grass,Ice,4
+461,/wiki/Weavile_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d2/461Weavile.png/70px-461Weavile.png,Weavile,,Dark,Ice,4
+462,/wiki/Magnezone_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/53/462Magnezone.png/70px-462Magnezone.png,Magnezone,,Electric,Steel,4
+463,/wiki/Lickilicky_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8e/463Lickilicky.png/70px-463Lickilicky.png,Lickilicky,,Normal,Normal,4
+464,/wiki/Rhyperior_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d9/464Rhyperior.png/70px-464Rhyperior.png,Rhyperior,,Ground,Rock,4
+465,/wiki/Tangrowth_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/32/465Tangrowth.png/70px-465Tangrowth.png,Tangrowth,,Grass,Grass,4
+466,/wiki/Electivire_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/23/466Electivire.png/70px-466Electivire.png,Electivire,,Electric,Electric,4
+467,/wiki/Magmortar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/60/467Magmortar.png/70px-467Magmortar.png,Magmortar,,Fire,Fire,4
+468,/wiki/Togekiss_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/87/468Togekiss.png/70px-468Togekiss.png,Togekiss,,Fairy,Flying,4
+469,/wiki/Yanmega_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e6/469Yanmega.png/70px-469Yanmega.png,Yanmega,,Bug,Flying,4
+470,/wiki/Leafeon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f5/470Leafeon.png/70px-470Leafeon.png,Leafeon,,Grass,Grass,4
+471,/wiki/Glaceon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/23/471Glaceon.png/70px-471Glaceon.png,Glaceon,,Ice,Ice,4
+472,/wiki/Gliscor_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ac/472Gliscor.png/70px-472Gliscor.png,Gliscor,,Ground,Flying,4
+473,/wiki/Mamoswine_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d0/473Mamoswine.png/70px-473Mamoswine.png,Mamoswine,,Ice,Ground,4
+474,/wiki/Porygon-Z_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/24/474Porygon-Z.png/70px-474Porygon-Z.png,Porygon-Z,,Normal,Normal,4
+475,/wiki/Gallade_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/58/475Gallade.png/70px-475Gallade.png,Gallade,,Psychic,Fighting,4
+476,/wiki/Probopass_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a6/476Probopass.png/70px-476Probopass.png,Probopass,,Rock,Steel,4
+477,/wiki/Dusknoir_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4f/477Dusknoir.png/70px-477Dusknoir.png,Dusknoir,,Ghost,Ghost,4
+478,/wiki/Froslass_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a2/478Froslass.png/70px-478Froslass.png,Froslass,,Ice,Ghost,4
+479,/wiki/Rotom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c5/479Rotom.png/70px-479Rotom.png,Rotom,Rotom,Electric,Ghost,4
+NA,/wiki/Rotom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/99/479Rotom-Heat.png/70px-479Rotom-Heat.png,Rotom,Heat Rotom,Electric,Fire,4
+NA,/wiki/Rotom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ea/479Rotom-Wash.png/70px-479Rotom-Wash.png,Rotom,Wash Rotom,Electric,Water,4
+NA,/wiki/Rotom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/77/479Rotom-Frost.png/70px-479Rotom-Frost.png,Rotom,Frost Rotom,Electric,Ice,4
+NA,/wiki/Rotom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/64/479Rotom-Fan.png/70px-479Rotom-Fan.png,Rotom,Fan Rotom,Electric,Flying,4
+NA,/wiki/Rotom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/da/479Rotom-Mow.png/70px-479Rotom-Mow.png,Rotom,Mow Rotom,Electric,Grass,4
+480,/wiki/Uxie_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ef/480Uxie.png/70px-480Uxie.png,Uxie,,Psychic,Psychic,4
+481,/wiki/Mesprit_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/40/481Mesprit.png/70px-481Mesprit.png,Mesprit,,Psychic,Psychic,4
+482,/wiki/Azelf_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d0/482Azelf.png/70px-482Azelf.png,Azelf,,Psychic,Psychic,4
+483,/wiki/Dialga_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8a/483Dialga.png/70px-483Dialga.png,Dialga,,Steel,Dragon,4
+NA,/wiki/Dialga_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/82/483Dialga-Origin.png/70px-483Dialga-Origin.png,Dialga,Origin Forme,Steel,Dragon,4
+484,/wiki/Palkia_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/66/484Palkia.png/70px-484Palkia.png,Palkia,,Water,Dragon,4
+NA,/wiki/Palkia_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e1/484Palkia-Origin.png/70px-484Palkia-Origin.png,Palkia,Origin Forme,Water,Dragon,4
+485,/wiki/Heatran_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b7/485Heatran.png/70px-485Heatran.png,Heatran,,Fire,Steel,4
+486,/wiki/Regigigas_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a1/486Regigigas.png/70px-486Regigigas.png,Regigigas,,Normal,Normal,4
+487,/wiki/Giratina_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0b/487Giratina.png/70px-487Giratina.png,Giratina,Altered Forme,Ghost,Dragon,4
+NA,/wiki/Giratina_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2b/487Giratina-Origin.png/70px-487Giratina-Origin.png,Giratina,Origin Forme,Ghost,Dragon,4
+488,/wiki/Cresselia_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4a/488Cresselia.png/70px-488Cresselia.png,Cresselia,,Psychic,Psychic,4
+489,/wiki/Phione_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/72/489Phione.png/70px-489Phione.png,Phione,,Water,Water,4
+490,/wiki/Manaphy_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2e/490Manaphy.png/70px-490Manaphy.png,Manaphy,,Water,Water,4
+491,/wiki/Darkrai_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6d/491Darkrai.png/70px-491Darkrai.png,Darkrai,,Dark,Dark,4
+492,/wiki/Shaymin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/61/492Shaymin.png/70px-492Shaymin.png,Shaymin,Land Forme,Grass,Grass,4
+NA,/wiki/Shaymin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/da/492Shaymin-Sky.png/70px-492Shaymin-Sky.png,Shaymin,Sky Forme,Grass,Flying,4
+493,/wiki/Arceus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fc/493Arceus.png/70px-493Arceus.png,Arceus,Arceus,Normal,Normal,4
+494,/wiki/Victini_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/60/494Victini.png/70px-494Victini.png,Victini,,Psychic,Fire,5
+495,/wiki/Snivy_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/75/495Snivy.png/70px-495Snivy.png,Snivy,,Grass,Grass,5
+496,/wiki/Servine_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/73/496Servine.png/70px-496Servine.png,Servine,,Grass,Grass,5
+497,/wiki/Serperior_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b7/497Serperior.png/70px-497Serperior.png,Serperior,,Grass,Grass,5
+498,/wiki/Tepig_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5b/498Tepig.png/70px-498Tepig.png,Tepig,,Fire,Fire,5
+499,/wiki/Pignite_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e8/499Pignite.png/70px-499Pignite.png,Pignite,,Fire,Fighting,5
+500,/wiki/Emboar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/18/500Emboar.png/70px-500Emboar.png,Emboar,,Fire,Fighting,5
+501,/wiki/Oshawott_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3b/501Oshawott.png/70px-501Oshawott.png,Oshawott,,Water,Water,5
+502,/wiki/Dewott_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e4/502Dewott.png/70px-502Dewott.png,Dewott,,Water,Water,5
+503,/wiki/Samurott_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b5/503Samurott.png/70px-503Samurott.png,Samurott,,Water,Water,5
+NA,/wiki/Samurott_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/39/503Samurott-Hisui.png/70px-503Samurott-Hisui.png,Samurott,Hisuian Form,Water,Dark,5
+504,/wiki/Patrat_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cb/504Patrat.png/70px-504Patrat.png,Patrat,,Normal,Normal,5
+505,/wiki/Watchog_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3e/505Watchog.png/70px-505Watchog.png,Watchog,,Normal,Normal,5
+506,/wiki/Lillipup_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7e/506Lillipup.png/70px-506Lillipup.png,Lillipup,,Normal,Normal,5
+507,/wiki/Herdier_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/96/507Herdier.png/70px-507Herdier.png,Herdier,,Normal,Normal,5
+508,/wiki/Stoutland_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3e/508Stoutland.png/70px-508Stoutland.png,Stoutland,,Normal,Normal,5
+509,/wiki/Purrloin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/46/509Purrloin.png/70px-509Purrloin.png,Purrloin,,Dark,Dark,5
+510,/wiki/Liepard_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/09/510Liepard.png/70px-510Liepard.png,Liepard,,Dark,Dark,5
+511,/wiki/Pansage_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6b/511Pansage.png/70px-511Pansage.png,Pansage,,Grass,Grass,5
+512,/wiki/Simisage_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/24/512Simisage.png/70px-512Simisage.png,Simisage,,Grass,Grass,5
+513,/wiki/Pansear_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e1/513Pansear.png/70px-513Pansear.png,Pansear,,Fire,Fire,5
+514,/wiki/Simisear_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7c/514Simisear.png/70px-514Simisear.png,Simisear,,Fire,Fire,5
+515,/wiki/Panpour_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2f/515Panpour.png/70px-515Panpour.png,Panpour,,Water,Water,5
+516,/wiki/Simipour_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/83/516Simipour.png/70px-516Simipour.png,Simipour,,Water,Water,5
+517,/wiki/Munna_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/61/517Munna.png/70px-517Munna.png,Munna,,Psychic,Psychic,5
+518,/wiki/Musharna_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2d/518Musharna.png/70px-518Musharna.png,Musharna,,Psychic,Psychic,5
+519,/wiki/Pidove_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c3/519Pidove.png/70px-519Pidove.png,Pidove,,Normal,Flying,5
+520,/wiki/Tranquill_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a3/520Tranquill.png/70px-520Tranquill.png,Tranquill,,Normal,Flying,5
+521,/wiki/Unfezant_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d0/521Unfezant.png/70px-521Unfezant.png,Unfezant,,Normal,Flying,5
+522,/wiki/Blitzle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/af/522Blitzle.png/70px-522Blitzle.png,Blitzle,,Electric,Electric,5
+523,/wiki/Zebstrika_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a1/523Zebstrika.png/70px-523Zebstrika.png,Zebstrika,,Electric,Electric,5
+524,/wiki/Roggenrola_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/69/524Roggenrola.png/70px-524Roggenrola.png,Roggenrola,,Rock,Rock,5
+525,/wiki/Boldore_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/ce/525Boldore.png/70px-525Boldore.png,Boldore,,Rock,Rock,5
+526,/wiki/Gigalith_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/59/526Gigalith.png/70px-526Gigalith.png,Gigalith,,Rock,Rock,5
+527,/wiki/Woobat_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/36/527Woobat.png/70px-527Woobat.png,Woobat,,Psychic,Flying,5
+528,/wiki/Swoobat_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9d/528Swoobat.png/70px-528Swoobat.png,Swoobat,,Psychic,Flying,5
+529,/wiki/Drilbur_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cf/529Drilbur.png/70px-529Drilbur.png,Drilbur,,Ground,Ground,5
+530,/wiki/Excadrill_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/63/530Excadrill.png/70px-530Excadrill.png,Excadrill,,Ground,Steel,5
+531,/wiki/Audino_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f5/531Audino.png/70px-531Audino.png,Audino,,Normal,Normal,5
+532,/wiki/Timburr_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/69/532Timburr.png/70px-532Timburr.png,Timburr,,Fighting,Fighting,5
+533,/wiki/Gurdurr_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ad/533Gurdurr.png/70px-533Gurdurr.png,Gurdurr,,Fighting,Fighting,5
+534,/wiki/Conkeldurr_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/11/534Conkeldurr.png/70px-534Conkeldurr.png,Conkeldurr,,Fighting,Fighting,5
+535,/wiki/Tympole_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c9/535Tympole.png/70px-535Tympole.png,Tympole,,Water,Water,5
+536,/wiki/Palpitoad_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c9/536Palpitoad.png/70px-536Palpitoad.png,Palpitoad,,Water,Ground,5
+537,/wiki/Seismitoad_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/35/537Seismitoad.png/70px-537Seismitoad.png,Seismitoad,,Water,Ground,5
+538,/wiki/Throh_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/74/538Throh.png/70px-538Throh.png,Throh,,Fighting,Fighting,5
+539,/wiki/Sawk_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a8/539Sawk.png/70px-539Sawk.png,Sawk,,Fighting,Fighting,5
+540,/wiki/Sewaddle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4a/540Sewaddle.png/70px-540Sewaddle.png,Sewaddle,,Bug,Grass,5
+541,/wiki/Swadloon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2b/541Swadloon.png/70px-541Swadloon.png,Swadloon,,Bug,Grass,5
+542,/wiki/Leavanny_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8e/542Leavanny.png/70px-542Leavanny.png,Leavanny,,Bug,Grass,5
+543,/wiki/Venipede_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0e/543Venipede.png/70px-543Venipede.png,Venipede,,Bug,Poison,5
+544,/wiki/Whirlipede_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bc/544Whirlipede.png/70px-544Whirlipede.png,Whirlipede,,Bug,Poison,5
+545,/wiki/Scolipede_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cb/545Scolipede.png/70px-545Scolipede.png,Scolipede,,Bug,Poison,5
+546,/wiki/Cottonee_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/44/546Cottonee.png/70px-546Cottonee.png,Cottonee,,Grass,Fairy,5
+547,/wiki/Whimsicott_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a2/547Whimsicott.png/70px-547Whimsicott.png,Whimsicott,,Grass,Fairy,5
+548,/wiki/Petilil_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0b/548Petilil.png/70px-548Petilil.png,Petilil,,Grass,Grass,5
+549,/wiki/Lilligant_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/21/549Lilligant.png/70px-549Lilligant.png,Lilligant,,Grass,Grass,5
+NA,/wiki/Lilligant_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ac/549Lilligant-Hisui.png/70px-549Lilligant-Hisui.png,Lilligant,Hisuian Form,Grass,Fighting,5
+550,/wiki/Basculin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/24/550Basculin-Red.png/70px-550Basculin-Red.png,Basculin,Red-Striped Form,Water,Water,5
+NA,/wiki/Basculin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fa/550Basculin-Blue.png/70px-550Basculin-Blue.png,Basculin,Blue-Striped Form,Water,Water,5
+NA,/wiki/Basculin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/73/550Basculin-White.png/70px-550Basculin-White.png,Basculin,White-Striped Form,Water,Water,5
+551,/wiki/Sandile_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/26/551Sandile.png/70px-551Sandile.png,Sandile,,Ground,Dark,5
+552,/wiki/Krokorok_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d4/552Krokorok.png/70px-552Krokorok.png,Krokorok,,Ground,Dark,5
+553,/wiki/Krookodile_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e5/553Krookodile.png/70px-553Krookodile.png,Krookodile,,Ground,Dark,5
+554,/wiki/Darumaka_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4c/554Darumaka.png/70px-554Darumaka.png,Darumaka,,Fire,Fire,5
+NA,/wiki/Darumaka_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c9/554Darumaka-Galar.png/70px-554Darumaka-Galar.png,Darumaka,Galarian Form,Ice,Ice,5
+555,/wiki/Darmanitan_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/40/555Darmanitan.png/70px-555Darmanitan.png,Darmanitan,Standard Mode,Fire,Fire,5
+NA,/wiki/Darmanitan_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fe/555Darmanitan-Zen.png/70px-555Darmanitan-Zen.png,Darmanitan,Zen Mode,Fire,Psychic,5
+NA,/wiki/Darmanitan_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/60/555Darmanitan-Galar.png/70px-555Darmanitan-Galar.png,Darmanitan,Galarian Form,Ice,Ice,5
+NA,/wiki/Darmanitan_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/91/555Darmanitan-Galar-Zen.png/70px-555Darmanitan-Galar-Zen.png,Darmanitan,Zen Mode,Ice,Fire,5
+556,/wiki/Maractus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/35/556Maractus.png/70px-556Maractus.png,Maractus,,Grass,Grass,5
+557,/wiki/Dwebble_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6b/557Dwebble.png/70px-557Dwebble.png,Dwebble,,Bug,Rock,5
+558,/wiki/Crustle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/19/558Crustle.png/70px-558Crustle.png,Crustle,,Bug,Rock,5
+559,/wiki/Scraggy_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/dc/559Scraggy.png/70px-559Scraggy.png,Scraggy,,Dark,Fighting,5
+560,/wiki/Scrafty_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e8/560Scrafty.png/70px-560Scrafty.png,Scrafty,,Dark,Fighting,5
+561,/wiki/Sigilyph_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/67/561Sigilyph.png/70px-561Sigilyph.png,Sigilyph,,Psychic,Flying,5
+562,/wiki/Yamask_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a4/562Yamask.png/70px-562Yamask.png,Yamask,,Ghost,Ghost,5
+NA,/wiki/Yamask_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/46/562Yamask-Galar.png/70px-562Yamask-Galar.png,Yamask,Galarian Form,Ground,Ghost,5
+563,/wiki/Cofagrigus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f8/563Cofagrigus.png/70px-563Cofagrigus.png,Cofagrigus,,Ghost,Ghost,5
+564,/wiki/Tirtouga_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1a/564Tirtouga.png/70px-564Tirtouga.png,Tirtouga,,Water,Rock,5
+565,/wiki/Carracosta_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d0/565Carracosta.png/70px-565Carracosta.png,Carracosta,,Water,Rock,5
+566,/wiki/Archen_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a3/566Archen.png/70px-566Archen.png,Archen,,Rock,Flying,5
+567,/wiki/Archeops_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/14/567Archeops.png/70px-567Archeops.png,Archeops,,Rock,Flying,5
+568,/wiki/Trubbish_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e2/568Trubbish.png/70px-568Trubbish.png,Trubbish,,Poison,Poison,5
+569,/wiki/Garbodor_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c4/569Garbodor.png/70px-569Garbodor.png,Garbodor,,Poison,Poison,5
+570,/wiki/Zorua_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2b/570Zorua.png/70px-570Zorua.png,Zorua,,Dark,Dark,5
+NA,/wiki/Zorua_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1c/570Zorua-Hisui.png/70px-570Zorua-Hisui.png,Zorua,Hisuian Form,Normal,Ghost,5
+571,/wiki/Zoroark_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a6/571Zoroark.png/70px-571Zoroark.png,Zoroark,,Dark,Dark,5
+NA,/wiki/Zoroark_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d3/571Zoroark-Hisui.png/70px-571Zoroark-Hisui.png,Zoroark,Hisuian Form,Normal,Ghost,5
+572,/wiki/Minccino_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ec/572Minccino.png/70px-572Minccino.png,Minccino,,Normal,Normal,5
+573,/wiki/Cinccino_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/94/573Cinccino.png/70px-573Cinccino.png,Cinccino,,Normal,Normal,5
+574,/wiki/Gothita_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/574Gothita.png/70px-574Gothita.png,Gothita,,Psychic,Psychic,5
+575,/wiki/Gothorita_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/67/575Gothorita.png/70px-575Gothorita.png,Gothorita,,Psychic,Psychic,5
+576,/wiki/Gothitelle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/38/576Gothitelle.png/70px-576Gothitelle.png,Gothitelle,,Psychic,Psychic,5
+577,/wiki/Solosis_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1e/577Solosis.png/70px-577Solosis.png,Solosis,,Psychic,Psychic,5
+578,/wiki/Duosion_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/83/578Duosion.png/70px-578Duosion.png,Duosion,,Psychic,Psychic,5
+579,/wiki/Reuniclus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/19/579Reuniclus.png/70px-579Reuniclus.png,Reuniclus,,Psychic,Psychic,5
+580,/wiki/Ducklett_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4b/580Ducklett.png/70px-580Ducklett.png,Ducklett,,Water,Flying,5
+581,/wiki/Swanna_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/76/581Swanna.png/70px-581Swanna.png,Swanna,,Water,Flying,5
+582,/wiki/Vanillite_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3f/582Vanillite.png/70px-582Vanillite.png,Vanillite,,Ice,Ice,5
+583,/wiki/Vanillish_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2f/583Vanillish.png/70px-583Vanillish.png,Vanillish,,Ice,Ice,5
+584,/wiki/Vanilluxe_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/39/584Vanilluxe.png/70px-584Vanilluxe.png,Vanilluxe,,Ice,Ice,5
+585,/wiki/Deerling_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/68/585Deerling-Spring.png/70px-585Deerling-Spring.png,Deerling,Spring Form,Normal,Grass,5
+NA,/wiki/Deerling_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d7/585Deerling-Summer.png/70px-585Deerling-Summer.png,Deerling,Summer Form,Normal,Grass,5
+NA,/wiki/Deerling_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e3/585Deerling-Autumn.png/70px-585Deerling-Autumn.png,Deerling,Autumn Form,Normal,Grass,5
+NA,/wiki/Deerling_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d4/585Deerling-Winter.png/70px-585Deerling-Winter.png,Deerling,Winter Form,Normal,Grass,5
+586,/wiki/Sawsbuck_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8d/586Sawsbuck-Spring.png/70px-586Sawsbuck-Spring.png,Sawsbuck,Spring Form,Normal,Grass,5
+NA,/wiki/Sawsbuck_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/44/586Sawsbuck-Summer.png/70px-586Sawsbuck-Summer.png,Sawsbuck,Summer Form,Normal,Grass,5
+NA,/wiki/Sawsbuck_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/ca/586Sawsbuck-Autumn.png/70px-586Sawsbuck-Autumn.png,Sawsbuck,Autumn Form,Normal,Grass,5
+NA,/wiki/Sawsbuck_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c5/586Sawsbuck-Winter.png/70px-586Sawsbuck-Winter.png,Sawsbuck,Winter Form,Normal,Grass,5
+587,/wiki/Emolga_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b4/587Emolga.png/70px-587Emolga.png,Emolga,,Electric,Flying,5
+588,/wiki/Karrablast_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/60/588Karrablast.png/70px-588Karrablast.png,Karrablast,,Bug,Bug,5
+589,/wiki/Escavalier_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/63/589Escavalier.png/70px-589Escavalier.png,Escavalier,,Bug,Steel,5
+590,/wiki/Foongus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cc/590Foongus.png/70px-590Foongus.png,Foongus,,Grass,Poison,5
+591,/wiki/Amoonguss_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/13/591Amoonguss.png/70px-591Amoonguss.png,Amoonguss,,Grass,Poison,5
+592,/wiki/Frillish_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/88/592Frillish.png/70px-592Frillish.png,Frillish,,Water,Ghost,5
+593,/wiki/Jellicent_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5c/593Jellicent.png/70px-593Jellicent.png,Jellicent,,Water,Ghost,5
+594,/wiki/Alomomola_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/10/594Alomomola.png/70px-594Alomomola.png,Alomomola,,Water,Water,5
+595,/wiki/Joltik_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f8/595Joltik.png/70px-595Joltik.png,Joltik,,Bug,Electric,5
+596,/wiki/Galvantula_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7a/596Galvantula.png/70px-596Galvantula.png,Galvantula,,Bug,Electric,5
+597,/wiki/Ferroseed_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/28/597Ferroseed.png/70px-597Ferroseed.png,Ferroseed,,Grass,Steel,5
+598,/wiki/Ferrothorn_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6c/598Ferrothorn.png/70px-598Ferrothorn.png,Ferrothorn,,Grass,Steel,5
+599,/wiki/Klink_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ea/599Klink.png/70px-599Klink.png,Klink,,Steel,Steel,5
+600,/wiki/Klang_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/80/600Klang.png/70px-600Klang.png,Klang,,Steel,Steel,5
+601,/wiki/Klinklang_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cf/601Klinklang.png/70px-601Klinklang.png,Klinklang,,Steel,Steel,5
+602,/wiki/Tynamo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5e/602Tynamo.png/70px-602Tynamo.png,Tynamo,,Electric,Electric,5
+603,/wiki/Eelektrik_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c7/603Eelektrik.png/70px-603Eelektrik.png,Eelektrik,,Electric,Electric,5
+604,/wiki/Eelektross_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6c/604Eelektross.png/70px-604Eelektross.png,Eelektross,,Electric,Electric,5
+605,/wiki/Elgyem_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fd/605Elgyem.png/70px-605Elgyem.png,Elgyem,,Psychic,Psychic,5
+606,/wiki/Beheeyem_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2c/606Beheeyem.png/70px-606Beheeyem.png,Beheeyem,,Psychic,Psychic,5
+607,/wiki/Litwick_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8e/607Litwick.png/70px-607Litwick.png,Litwick,,Ghost,Fire,5
+608,/wiki/Lampent_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a5/608Lampent.png/70px-608Lampent.png,Lampent,,Ghost,Fire,5
+609,/wiki/Chandelure_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/65/609Chandelure.png/70px-609Chandelure.png,Chandelure,,Ghost,Fire,5
+610,/wiki/Axew_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5c/610Axew.png/70px-610Axew.png,Axew,,Dragon,Dragon,5
+611,/wiki/Fraxure_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/05/611Fraxure.png/70px-611Fraxure.png,Fraxure,,Dragon,Dragon,5
+612,/wiki/Haxorus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8f/612Haxorus.png/70px-612Haxorus.png,Haxorus,,Dragon,Dragon,5
+613,/wiki/Cubchoo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/72/613Cubchoo.png/70px-613Cubchoo.png,Cubchoo,,Ice,Ice,5
+614,/wiki/Beartic_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/40/614Beartic.png/70px-614Beartic.png,Beartic,,Ice,Ice,5
+615,/wiki/Cryogonal_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/11/615Cryogonal.png/70px-615Cryogonal.png,Cryogonal,,Ice,Ice,5
+616,/wiki/Shelmet_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f6/616Shelmet.png/70px-616Shelmet.png,Shelmet,,Bug,Bug,5
+617,/wiki/Accelgor_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/34/617Accelgor.png/70px-617Accelgor.png,Accelgor,,Bug,Bug,5
+618,/wiki/Stunfisk_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d2/618Stunfisk.png/70px-618Stunfisk.png,Stunfisk,,Ground,Electric,5
+NA,/wiki/Stunfisk_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/11/618Stunfisk-Galar.png/70px-618Stunfisk-Galar.png,Stunfisk,Galarian Form,Ground,Steel,5
+619,/wiki/Mienfoo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/41/619Mienfoo.png/70px-619Mienfoo.png,Mienfoo,,Fighting,Fighting,5
+620,/wiki/Mienshao_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/20/620Mienshao.png/70px-620Mienshao.png,Mienshao,,Fighting,Fighting,5
+621,/wiki/Druddigon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ad/621Druddigon.png/70px-621Druddigon.png,Druddigon,,Dragon,Dragon,5
+622,/wiki/Golett_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ac/622Golett.png/70px-622Golett.png,Golett,,Ground,Ghost,5
+623,/wiki/Golurk_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/68/623Golurk.png/70px-623Golurk.png,Golurk,,Ground,Ghost,5
+624,/wiki/Pawniard_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9c/624Pawniard.png/70px-624Pawniard.png,Pawniard,,Dark,Steel,5
+625,/wiki/Bisharp_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/74/625Bisharp.png/70px-625Bisharp.png,Bisharp,,Dark,Steel,5
+626,/wiki/Bouffalant_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a4/626Bouffalant.png/70px-626Bouffalant.png,Bouffalant,,Normal,Normal,5
+627,/wiki/Rufflet_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bb/627Rufflet.png/70px-627Rufflet.png,Rufflet,,Normal,Flying,5
+628,/wiki/Braviary_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cf/628Braviary.png/70px-628Braviary.png,Braviary,,Normal,Flying,5
+NA,/wiki/Braviary_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/16/628Braviary-Hisui.png/70px-628Braviary-Hisui.png,Braviary,Hisuian Form,Psychic,Flying,5
+629,/wiki/Vullaby_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f2/629Vullaby.png/70px-629Vullaby.png,Vullaby,,Dark,Flying,5
+630,/wiki/Mandibuzz_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/00/630Mandibuzz.png/70px-630Mandibuzz.png,Mandibuzz,,Dark,Flying,5
+631,/wiki/Heatmor_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b0/631Heatmor.png/70px-631Heatmor.png,Heatmor,,Fire,Fire,5
+632,/wiki/Durant_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1a/632Durant.png/70px-632Durant.png,Durant,,Bug,Steel,5
+633,/wiki/Deino_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f7/633Deino.png/70px-633Deino.png,Deino,,Dark,Dragon,5
+634,/wiki/Zweilous_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a6/634Zweilous.png/70px-634Zweilous.png,Zweilous,,Dark,Dragon,5
+635,/wiki/Hydreigon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3e/635Hydreigon.png/70px-635Hydreigon.png,Hydreigon,,Dark,Dragon,5
+636,/wiki/Larvesta_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f4/636Larvesta.png/70px-636Larvesta.png,Larvesta,,Bug,Fire,5
+637,/wiki/Volcarona_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6b/637Volcarona.png/70px-637Volcarona.png,Volcarona,,Bug,Fire,5
+638,/wiki/Cobalion_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/65/638Cobalion.png/70px-638Cobalion.png,Cobalion,,Steel,Fighting,5
+639,/wiki/Terrakion_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ad/639Terrakion.png/70px-639Terrakion.png,Terrakion,,Rock,Fighting,5
+640,/wiki/Virizion_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/79/640Virizion.png/70px-640Virizion.png,Virizion,,Grass,Fighting,5
+641,/wiki/Tornadus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/08/641Tornadus.png/70px-641Tornadus.png,Tornadus,Incarnate Forme,Flying,Flying,5
+NA,/wiki/Tornadus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7e/641Tornadus-Therian.png/70px-641Tornadus-Therian.png,Tornadus,Therian Forme,Flying,Flying,5
+642,/wiki/Thundurus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b8/642Thundurus.png/70px-642Thundurus.png,Thundurus,Incarnate Forme,Electric,Flying,5
+NA,/wiki/Thundurus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/86/642Thundurus-Therian.png/70px-642Thundurus-Therian.png,Thundurus,Therian Forme,Electric,Flying,5
+643,/wiki/Reshiram_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8d/643Reshiram.png/70px-643Reshiram.png,Reshiram,,Dragon,Fire,5
+644,/wiki/Zekrom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/81/644Zekrom.png/70px-644Zekrom.png,Zekrom,,Dragon,Electric,5
+645,/wiki/Landorus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bb/645Landorus.png/70px-645Landorus.png,Landorus,Incarnate Forme,Ground,Flying,5
+NA,/wiki/Landorus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/00/645Landorus-Therian.png/70px-645Landorus-Therian.png,Landorus,Therian Forme,Ground,Flying,5
+646,/wiki/Kyurem_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c3/646Kyurem.png/70px-646Kyurem.png,Kyurem,Kyurem,Dragon,Ice,5
+NA,/wiki/Kyurem_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/81/646Kyurem-White.png/70px-646Kyurem-White.png,Kyurem,White Kyurem,Dragon,Ice,5
+NA,/wiki/Kyurem_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/16/646Kyurem-Black.png/70px-646Kyurem-Black.png,Kyurem,Black Kyurem,Dragon,Ice,5
+647,/wiki/Keldeo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/50/647Keldeo.png/70px-647Keldeo.png,Keldeo,Ordinary Form,Water,Fighting,5
+NA,/wiki/Keldeo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7c/647Keldeo-Resolute.png/70px-647Keldeo-Resolute.png,Keldeo,Resolute Form,Water,Fighting,5
+648,/wiki/Meloetta_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a3/648Meloetta.png/70px-648Meloetta.png,Meloetta,Aria Forme,Normal,Psychic,5
+NA,/wiki/Meloetta_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/36/648Meloetta-Pirouette.png/70px-648Meloetta-Pirouette.png,Meloetta,Pirouette Forme,Normal,Fighting,5
+649,/wiki/Genesect_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/46/649Genesect.png/70px-649Genesect.png,Genesect,Genesect,Bug,Steel,5
+NA,/wiki/Genesect_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e5/HOME649B.png/70px-HOME649B.png,Genesect,Genesect,Bug,Steel,5
+NA,/wiki/Genesect_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/aa/HOME649Y.png/70px-HOME649Y.png,Genesect,Genesect,Bug,Steel,5
+NA,/wiki/Genesect_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b9/HOME649R.png/70px-HOME649R.png,Genesect,Genesect,Bug,Steel,5
+NA,/wiki/Genesect_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7f/HOME649W.png/70px-HOME649W.png,Genesect,Genesect,Bug,Steel,5
+650,/wiki/Chespin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/ca/650Chespin.png/70px-650Chespin.png,Chespin,,Grass,Grass,6
+651,/wiki/Quilladin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/651Quilladin.png/70px-651Quilladin.png,Quilladin,,Grass,Grass,6
+652,/wiki/Chesnaught_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/18/652Chesnaught.png/70px-652Chesnaught.png,Chesnaught,,Grass,Fighting,6
+653,/wiki/Fennekin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3d/653Fennekin.png/70px-653Fennekin.png,Fennekin,,Fire,Fire,6
+654,/wiki/Braixen_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/09/654Braixen.png/70px-654Braixen.png,Braixen,,Fire,Fire,6
+655,/wiki/Delphox_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/21/655Delphox.png/70px-655Delphox.png,Delphox,,Fire,Psychic,6
+656,/wiki/Froakie_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/18/656Froakie.png/70px-656Froakie.png,Froakie,,Water,Water,6
+657,/wiki/Frogadier_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fc/657Frogadier.png/70px-657Frogadier.png,Frogadier,,Water,Water,6
+658,/wiki/Greninja_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/67/658Greninja.png/70px-658Greninja.png,Greninja,,Water,Dark,6
+659,/wiki/Bunnelby_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/70/659Bunnelby.png/70px-659Bunnelby.png,Bunnelby,,Normal,Normal,6
+660,/wiki/Diggersby_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/34/660Diggersby.png/70px-660Diggersby.png,Diggersby,,Normal,Ground,6
+661,/wiki/Fletchling_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7e/661Fletchling.png/70px-661Fletchling.png,Fletchling,,Normal,Flying,6
+662,/wiki/Fletchinder_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/ce/662Fletchinder.png/70px-662Fletchinder.png,Fletchinder,,Fire,Flying,6
+663,/wiki/Talonflame_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ae/663Talonflame.png/70px-663Talonflame.png,Talonflame,,Fire,Flying,6
+664,/wiki/Scatterbug_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d3/664Scatterbug.png/70px-664Scatterbug.png,Scatterbug,,Bug,Bug,6
+665,/wiki/Spewpa_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b7/665Spewpa.png/70px-665Spewpa.png,Spewpa,,Bug,Bug,6
+666,/wiki/Vivillon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4c/666Vivillon.png/70px-666Vivillon.png,Vivillon,Meadow Pattern,Bug,Flying,6
+667,/wiki/Litleo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1f/667Litleo.png/70px-667Litleo.png,Litleo,,Fire,Normal,6
+668,/wiki/Pyroar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/70/668Pyroar.png/70px-668Pyroar.png,Pyroar,,Fire,Normal,6
+669,/wiki/Flab%C3%A9b%C3%A9_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/52/669Flab%C3%A9b%C3%A9.png/70px-669Flab%C3%A9b%C3%A9.png,Flabébé,Red Flower,Fairy,Fairy,6
+NA,/wiki/Flab%C3%A9b%C3%A9_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a8/HOME669Y.png/70px-HOME669Y.png,Flabébé,Yellow Flower,Fairy,Fairy,6
+NA,/wiki/Flab%C3%A9b%C3%A9_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/34/HOME669O.png/70px-HOME669O.png,Flabébé,Orange Flower,Fairy,Fairy,6
+NA,/wiki/Flab%C3%A9b%C3%A9_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e5/HOME669B.png/70px-HOME669B.png,Flabébé,Blue Flower,Fairy,Fairy,6
+NA,/wiki/Flab%C3%A9b%C3%A9_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a2/HOME669W.png/70px-HOME669W.png,Flabébé,White Flower,Fairy,Fairy,6
+670,/wiki/Floette_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/17/670Floette.png/70px-670Floette.png,Floette,Red Flower,Fairy,Fairy,6
+NA,/wiki/Floette_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/95/HOME670Y.png/70px-HOME670Y.png,Floette,Yellow Flower,Fairy,Fairy,6
+NA,/wiki/Floette_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1d/HOME670O.png/70px-HOME670O.png,Floette,Orange Flower,Fairy,Fairy,6
+NA,/wiki/Floette_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b9/HOME670B.png/70px-HOME670B.png,Floette,Blue Flower,Fairy,Fairy,6
+NA,/wiki/Floette_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3e/HOME670W.png/70px-HOME670W.png,Floette,White Flower,Fairy,Fairy,6
+671,/wiki/Florges_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/37/671Florges.png/70px-671Florges.png,Florges,Red Flower,Fairy,Fairy,6
+NA,/wiki/Florges_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/02/HOME671Y.png/70px-HOME671Y.png,Florges,Yellow Flower,Fairy,Fairy,6
+NA,/wiki/Florges_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/17/HOME671O.png/70px-HOME671O.png,Florges,Orange Flower,Fairy,Fairy,6
+NA,/wiki/Florges_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f3/HOME671B.png/70px-HOME671B.png,Florges,Blue Flower,Fairy,Fairy,6
+NA,/wiki/Florges_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/24/HOME671W.png/70px-HOME671W.png,Florges,White Flower,Fairy,Fairy,6
+672,/wiki/Skiddo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5d/672Skiddo.png/70px-672Skiddo.png,Skiddo,,Grass,Grass,6
+673,/wiki/Gogoat_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bc/673Gogoat.png/70px-673Gogoat.png,Gogoat,,Grass,Grass,6
+674,/wiki/Pancham_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1c/674Pancham.png/70px-674Pancham.png,Pancham,,Fighting,Fighting,6
+675,/wiki/Pangoro_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/08/675Pangoro.png/70px-675Pangoro.png,Pangoro,,Fighting,Dark,6
+676,/wiki/Furfrou_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/49/676Furfrou.png/70px-676Furfrou.png,Furfrou,Natural Form,Normal,Normal,6
+677,/wiki/Espurr_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/09/677Espurr.png/70px-677Espurr.png,Espurr,,Psychic,Psychic,6
+678,/wiki/Meowstic_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/58/678Meowstic-Male.png/70px-678Meowstic-Male.png,Meowstic,Male,Psychic,Psychic,6
+NA,/wiki/Meowstic_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bb/678Meowstic-Female.png/70px-678Meowstic-Female.png,Meowstic,Female,Psychic,Psychic,6
+679,/wiki/Honedge_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/35/679Honedge.png/70px-679Honedge.png,Honedge,,Steel,Ghost,6
+680,/wiki/Doublade_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ef/680Doublade.png/70px-680Doublade.png,Doublade,,Steel,Ghost,6
+681,/wiki/Aegislash_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ec/681Aegislash-Shield.png/70px-681Aegislash-Shield.png,Aegislash,Shield Forme,Steel,Ghost,6
+NA,/wiki/Aegislash_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f9/681Aegislash-Blade.png/70px-681Aegislash-Blade.png,Aegislash,Blade Forme,Steel,Ghost,6
+682,/wiki/Spritzee_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/66/682Spritzee.png/70px-682Spritzee.png,Spritzee,,Fairy,Fairy,6
+683,/wiki/Aromatisse_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d9/683Aromatisse.png/70px-683Aromatisse.png,Aromatisse,,Fairy,Fairy,6
+684,/wiki/Swirlix_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bf/684Swirlix.png/70px-684Swirlix.png,Swirlix,,Fairy,Fairy,6
+685,/wiki/Slurpuff_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8d/685Slurpuff.png/70px-685Slurpuff.png,Slurpuff,,Fairy,Fairy,6
+686,/wiki/Inkay_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/70/686Inkay.png/70px-686Inkay.png,Inkay,,Dark,Psychic,6
+687,/wiki/Malamar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e4/687Malamar.png/70px-687Malamar.png,Malamar,,Dark,Psychic,6
+688,/wiki/Binacle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5b/688Binacle.png/70px-688Binacle.png,Binacle,,Rock,Water,6
+689,/wiki/Barbaracle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/48/689Barbaracle.png/70px-689Barbaracle.png,Barbaracle,,Rock,Water,6
+690,/wiki/Skrelp_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4e/690Skrelp.png/70px-690Skrelp.png,Skrelp,,Poison,Water,6
+691,/wiki/Dragalge_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a9/691Dragalge.png/70px-691Dragalge.png,Dragalge,,Poison,Dragon,6
+692,/wiki/Clauncher_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fb/692Clauncher.png/70px-692Clauncher.png,Clauncher,,Water,Water,6
+693,/wiki/Clawitzer_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d3/693Clawitzer.png/70px-693Clawitzer.png,Clawitzer,,Water,Water,6
+694,/wiki/Helioptile_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/51/694Helioptile.png/70px-694Helioptile.png,Helioptile,,Electric,Normal,6
+695,/wiki/Heliolisk_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f6/695Heliolisk.png/70px-695Heliolisk.png,Heliolisk,,Electric,Normal,6
+696,/wiki/Tyrunt_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c3/696Tyrunt.png/70px-696Tyrunt.png,Tyrunt,,Rock,Dragon,6
+697,/wiki/Tyrantrum_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8b/697Tyrantrum.png/70px-697Tyrantrum.png,Tyrantrum,,Rock,Dragon,6
+698,/wiki/Amaura_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2a/698Amaura.png/70px-698Amaura.png,Amaura,,Rock,Ice,6
+699,/wiki/Aurorus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9e/699Aurorus.png/70px-699Aurorus.png,Aurorus,,Rock,Ice,6
+700,/wiki/Sylveon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e8/700Sylveon.png/70px-700Sylveon.png,Sylveon,,Fairy,Fairy,6
+701,/wiki/Hawlucha_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/44/701Hawlucha.png/70px-701Hawlucha.png,Hawlucha,,Fighting,Flying,6
+702,/wiki/Dedenne_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c9/702Dedenne.png/70px-702Dedenne.png,Dedenne,,Electric,Fairy,6
+703,/wiki/Carbink_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fa/703Carbink.png/70px-703Carbink.png,Carbink,,Rock,Fairy,6
+704,/wiki/Goomy_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/28/704Goomy.png/70px-704Goomy.png,Goomy,,Dragon,Dragon,6
+705,/wiki/Sliggoo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/95/705Sliggoo.png/70px-705Sliggoo.png,Sliggoo,,Dragon,Dragon,6
+NA,/wiki/Sliggoo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/90/705Sliggoo-Hisui.png/70px-705Sliggoo-Hisui.png,Sliggoo,Hisuian Form,Steel,Dragon,6
+706,/wiki/Goodra_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/df/706Goodra.png/70px-706Goodra.png,Goodra,,Dragon,Dragon,6
+NA,/wiki/Goodra_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/27/706Goodra-Hisui.png/70px-706Goodra-Hisui.png,Goodra,Hisuian Form,Steel,Dragon,6
+707,/wiki/Klefki_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/04/707Klefki.png/70px-707Klefki.png,Klefki,,Steel,Fairy,6
+708,/wiki/Phantump_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/72/708Phantump.png/70px-708Phantump.png,Phantump,,Ghost,Grass,6
+709,/wiki/Trevenant_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4b/709Trevenant.png/70px-709Trevenant.png,Trevenant,,Ghost,Grass,6
+710,/wiki/Pumpkaboo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/df/710Pumpkaboo.png/70px-710Pumpkaboo.png,Pumpkaboo,,Ghost,Grass,6
+711,/wiki/Gourgeist_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/88/711Gourgeist.png/70px-711Gourgeist.png,Gourgeist,,Ghost,Grass,6
+712,/wiki/Bergmite_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c3/712Bergmite.png/70px-712Bergmite.png,Bergmite,,Ice,Ice,6
+713,/wiki/Avalugg_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/04/713Avalugg.png/70px-713Avalugg.png,Avalugg,,Ice,Ice,6
+NA,/wiki/Avalugg_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/18/713Avalugg-Hisui.png/70px-713Avalugg-Hisui.png,Avalugg,Hisuian Form,Ice,Rock,6
+714,/wiki/Noibat_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/07/714Noibat.png/70px-714Noibat.png,Noibat,,Flying,Dragon,6
+715,/wiki/Noivern_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/15/715Noivern.png/70px-715Noivern.png,Noivern,,Flying,Dragon,6
+716,/wiki/Xerneas_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ef/HOME716N.png/70px-HOME716N.png,Xerneas,Neutral Mode,Fairy,Fairy,6
+NA,/wiki/Xerneas_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/13/716Xerneas.png/70px-716Xerneas.png,Xerneas,Active Mode,Fairy,Fairy,6
+717,/wiki/Yveltal_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/54/717Yveltal.png/70px-717Yveltal.png,Yveltal,,Dark,Flying,6
+718,/wiki/Zygarde_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3a/718Zygarde.png/70px-718Zygarde.png,Zygarde,50% Forme,Dragon,Ground,6
+NA,/wiki/Zygarde_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/94/718Zygarde-10Percent.png/70px-718Zygarde-10Percent.png,Zygarde,10% Forme,Dragon,Ground,6
+NA,/wiki/Zygarde_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/91/718Zygarde-Complete.png/70px-718Zygarde-Complete.png,Zygarde,Complete Forme,Dragon,Ground,6
+719,/wiki/Diancie_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b3/719Diancie.png/70px-719Diancie.png,Diancie,,Rock,Fairy,6
+720,/wiki/Hoopa_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fb/720Hoopa.png/70px-720Hoopa.png,Hoopa,Hoopa Confined,Psychic,Ghost,6
+NA,/wiki/Hoopa_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ad/720Hoopa-Unbound.png/70px-720Hoopa-Unbound.png,Hoopa,Hoopa Unbound,Psychic,Dark,6
+721,/wiki/Volcanion_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/44/721Volcanion.png/70px-721Volcanion.png,Volcanion,,Fire,Water,6
+722,/wiki/Rowlet_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/74/722Rowlet.png/70px-722Rowlet.png,Rowlet,,Grass,Flying,7
+723,/wiki/Dartrix_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1e/723Dartrix.png/70px-723Dartrix.png,Dartrix,,Grass,Flying,7
+724,/wiki/Decidueye_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a4/724Decidueye.png/70px-724Decidueye.png,Decidueye,,Grass,Ghost,7
+NA,/wiki/Decidueye_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/59/724Decidueye-Hisui.png/70px-724Decidueye-Hisui.png,Decidueye,Hisuian Form,Grass,Fighting,7
+725,/wiki/Litten_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0e/725Litten.png/70px-725Litten.png,Litten,,Fire,Fire,7
+726,/wiki/Torracat_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/dc/726Torracat.png/70px-726Torracat.png,Torracat,,Fire,Fire,7
+727,/wiki/Incineroar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/27/727Incineroar.png/70px-727Incineroar.png,Incineroar,,Fire,Dark,7
+728,/wiki/Popplio_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d8/728Popplio.png/70px-728Popplio.png,Popplio,,Water,Water,7
+729,/wiki/Brionne_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cd/729Brionne.png/70px-729Brionne.png,Brionne,,Water,Water,7
+730,/wiki/Primarina_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/89/730Primarina.png/70px-730Primarina.png,Primarina,,Water,Fairy,7
+731,/wiki/Pikipek_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/15/731Pikipek.png/70px-731Pikipek.png,Pikipek,,Normal,Flying,7
+732,/wiki/Trumbeak_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5c/732Trumbeak.png/70px-732Trumbeak.png,Trumbeak,,Normal,Flying,7
+733,/wiki/Toucannon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/78/733Toucannon.png/70px-733Toucannon.png,Toucannon,,Normal,Flying,7
+734,/wiki/Yungoos_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/08/734Yungoos.png/70px-734Yungoos.png,Yungoos,,Normal,Normal,7
+735,/wiki/Gumshoos_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/ba/735Gumshoos.png/70px-735Gumshoos.png,Gumshoos,,Normal,Normal,7
+736,/wiki/Grubbin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/14/736Grubbin.png/70px-736Grubbin.png,Grubbin,,Bug,Bug,7
+737,/wiki/Charjabug_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ec/737Charjabug.png/70px-737Charjabug.png,Charjabug,,Bug,Electric,7
+738,/wiki/Vikavolt_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4e/738Vikavolt.png/70px-738Vikavolt.png,Vikavolt,,Bug,Electric,7
+739,/wiki/Crabrawler_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/98/739Crabrawler.png/70px-739Crabrawler.png,Crabrawler,,Fighting,Fighting,7
+740,/wiki/Crabominable_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/17/740Crabominable.png/70px-740Crabominable.png,Crabominable,,Fighting,Ice,7
+741,/wiki/Oricorio_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/33/741Oricorio.png/70px-741Oricorio.png,Oricorio,Baile Style,Fire,Flying,7
+NA,/wiki/Oricorio_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6d/741Oricorio-Pom-Pom.png/70px-741Oricorio-Pom-Pom.png,Oricorio,Pom-Pom Style,Electric,Flying,7
+NA,/wiki/Oricorio_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/50/741Oricorio-Pa%27u.png/70px-741Oricorio-Pa%27u.png,Oricorio,Pa’u Style,Psychic,Flying,7
+NA,/wiki/Oricorio_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1c/741Oricorio-Sensu.png/70px-741Oricorio-Sensu.png,Oricorio,Sensu Style,Ghost,Flying,7
+742,/wiki/Cutiefly_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fa/742Cutiefly.png/70px-742Cutiefly.png,Cutiefly,,Bug,Fairy,7
+743,/wiki/Ribombee_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e4/743Ribombee.png/70px-743Ribombee.png,Ribombee,,Bug,Fairy,7
+744,/wiki/Rockruff_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/51/744Rockruff.png/70px-744Rockruff.png,Rockruff,,Rock,Rock,7
+745,/wiki/Lycanroc_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/14/745Lycanroc.png/70px-745Lycanroc.png,Lycanroc,Midday Form,Rock,Rock,7
+NA,/wiki/Lycanroc_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/34/745Lycanroc-Midnight.png/70px-745Lycanroc-Midnight.png,Lycanroc,Midnight Form,Rock,Rock,7
+NA,/wiki/Lycanroc_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/37/745Lycanroc-Dusk.png/70px-745Lycanroc-Dusk.png,Lycanroc,Dusk Form,Rock,Rock,7
+746,/wiki/Wishiwashi_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/75/746Wishiwashi.png/70px-746Wishiwashi.png,Wishiwashi,Solo Form,Water,Water,7
+NA,/wiki/Wishiwashi_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7f/746Wishiwashi-School.png/70px-746Wishiwashi-School.png,Wishiwashi,School Form,Water,Water,7
+747,/wiki/Mareanie_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d3/747Mareanie.png/70px-747Mareanie.png,Mareanie,,Poison,Water,7
+748,/wiki/Toxapex_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/06/748Toxapex.png/70px-748Toxapex.png,Toxapex,,Poison,Water,7
+749,/wiki/Mudbray_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/12/749Mudbray.png/70px-749Mudbray.png,Mudbray,,Ground,Ground,7
+750,/wiki/Mudsdale_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f7/750Mudsdale.png/70px-750Mudsdale.png,Mudsdale,,Ground,Ground,7
+751,/wiki/Dewpider_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/29/751Dewpider.png/70px-751Dewpider.png,Dewpider,,Water,Bug,7
+752,/wiki/Araquanid_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/82/752Araquanid.png/70px-752Araquanid.png,Araquanid,,Water,Bug,7
+753,/wiki/Fomantis_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/10/753Fomantis.png/70px-753Fomantis.png,Fomantis,,Grass,Grass,7
+754,/wiki/Lurantis_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/19/754Lurantis.png/70px-754Lurantis.png,Lurantis,,Grass,Grass,7
+755,/wiki/Morelull_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c9/755Morelull.png/70px-755Morelull.png,Morelull,,Grass,Fairy,7
+756,/wiki/Shiinotic_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/36/756Shiinotic.png/70px-756Shiinotic.png,Shiinotic,,Grass,Fairy,7
+757,/wiki/Salandit_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/27/757Salandit.png/70px-757Salandit.png,Salandit,,Poison,Fire,7
+758,/wiki/Salazzle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/72/758Salazzle.png/70px-758Salazzle.png,Salazzle,,Poison,Fire,7
+759,/wiki/Stufful_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e5/759Stufful.png/70px-759Stufful.png,Stufful,,Normal,Fighting,7
+760,/wiki/Bewear_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a4/760Bewear.png/70px-760Bewear.png,Bewear,,Normal,Fighting,7
+761,/wiki/Bounsweet_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a1/761Bounsweet.png/70px-761Bounsweet.png,Bounsweet,,Grass,Grass,7
+762,/wiki/Steenee_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/78/762Steenee.png/70px-762Steenee.png,Steenee,,Grass,Grass,7
+763,/wiki/Tsareena_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/23/763Tsareena.png/70px-763Tsareena.png,Tsareena,,Grass,Grass,7
+764,/wiki/Comfey_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c9/764Comfey.png/70px-764Comfey.png,Comfey,,Fairy,Fairy,7
+765,/wiki/Oranguru_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d8/765Oranguru.png/70px-765Oranguru.png,Oranguru,,Normal,Psychic,7
+766,/wiki/Passimian_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/ba/766Passimian.png/70px-766Passimian.png,Passimian,,Fighting,Fighting,7
+767,/wiki/Wimpod_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ef/767Wimpod.png/70px-767Wimpod.png,Wimpod,,Bug,Water,7
+768,/wiki/Golisopod_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b6/768Golisopod.png/70px-768Golisopod.png,Golisopod,,Bug,Water,7
+769,/wiki/Sandygast_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f0/769Sandygast.png/70px-769Sandygast.png,Sandygast,,Ghost,Ground,7
+770,/wiki/Palossand_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/32/770Palossand.png/70px-770Palossand.png,Palossand,,Ghost,Ground,7
+771,/wiki/Pyukumuku_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4f/771Pyukumuku.png/70px-771Pyukumuku.png,Pyukumuku,,Water,Water,7
+772,/wiki/Type:_Null_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fd/772Type_Null.png/70px-772Type_Null.png,Type: Null,,Normal,Normal,7
+773,/wiki/Silvally_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/be/773Silvally.png/70px-773Silvally.png,Silvally,Type: Normal,Normal,Normal,7
+774,/wiki/Minior_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/90/774Minior.png/70px-774Minior.png,Minior,Meteor Form,Rock,Flying,7
+NA,/wiki/Minior_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/20/774Minior-Core.png/70px-774Minior-Core.png,Minior,Red Core,Rock,Flying,7
+775,/wiki/Komala_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7d/775Komala.png/70px-775Komala.png,Komala,,Normal,Normal,7
+776,/wiki/Turtonator_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/15/776Turtonator.png/70px-776Turtonator.png,Turtonator,,Fire,Dragon,7
+777,/wiki/Togedemaru_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5a/777Togedemaru.png/70px-777Togedemaru.png,Togedemaru,,Electric,Steel,7
+778,/wiki/Mimikyu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9b/778Mimikyu.png/70px-778Mimikyu.png,Mimikyu,Disguised Form,Ghost,Fairy,7
+NA,/wiki/Mimikyu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/35/HOME778B.png/70px-HOME778B.png,Mimikyu,Busted Form,Ghost,Fairy,7
+779,/wiki/Bruxish_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/92/779Bruxish.png/70px-779Bruxish.png,Bruxish,,Water,Psychic,7
+780,/wiki/Drampa_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/dc/780Drampa.png/70px-780Drampa.png,Drampa,,Normal,Dragon,7
+781,/wiki/Dhelmise_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2f/781Dhelmise.png/70px-781Dhelmise.png,Dhelmise,,Ghost,Grass,7
+782,/wiki/Jangmo-o_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a0/782Jangmo-o.png/70px-782Jangmo-o.png,Jangmo-o,,Dragon,Dragon,7
+783,/wiki/Hakamo-o_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0d/783Hakamo-o.png/70px-783Hakamo-o.png,Hakamo-o,,Dragon,Fighting,7
+784,/wiki/Kommo-o_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/84/784Kommo-o.png/70px-784Kommo-o.png,Kommo-o,,Dragon,Fighting,7
+785,/wiki/Tapu_Koko_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d0/785Tapu_Koko.png/70px-785Tapu_Koko.png,Tapu Koko,,Electric,Fairy,7
+786,/wiki/Tapu_Lele_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4d/786Tapu_Lele.png/70px-786Tapu_Lele.png,Tapu Lele,,Psychic,Fairy,7
+787,/wiki/Tapu_Bulu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/67/787Tapu_Bulu.png/70px-787Tapu_Bulu.png,Tapu Bulu,,Grass,Fairy,7
+788,/wiki/Tapu_Fini_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/66/788Tapu_Fini.png/70px-788Tapu_Fini.png,Tapu Fini,,Water,Fairy,7
+789,/wiki/Cosmog_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/17/789Cosmog.png/70px-789Cosmog.png,Cosmog,,Psychic,Psychic,7
+790,/wiki/Cosmoem_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1b/790Cosmoem.png/70px-790Cosmoem.png,Cosmoem,,Psychic,Psychic,7
+791,/wiki/Solgaleo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/57/791Solgaleo.png/70px-791Solgaleo.png,Solgaleo,,Psychic,Steel,7
+792,/wiki/Lunala_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9d/792Lunala.png/70px-792Lunala.png,Lunala,,Psychic,Ghost,7
+793,/wiki/Nihilego_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2c/793Nihilego.png/70px-793Nihilego.png,Nihilego,,Rock,Poison,7
+794,/wiki/Buzzwole_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fa/794Buzzwole.png/70px-794Buzzwole.png,Buzzwole,,Bug,Fighting,7
+795,/wiki/Pheromosa_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c7/795Pheromosa.png/70px-795Pheromosa.png,Pheromosa,,Bug,Fighting,7
+796,/wiki/Xurkitree_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d2/796Xurkitree.png/70px-796Xurkitree.png,Xurkitree,,Electric,Electric,7
+797,/wiki/Celesteela_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/89/797Celesteela.png/70px-797Celesteela.png,Celesteela,,Steel,Flying,7
+798,/wiki/Kartana_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fe/798Kartana.png/70px-798Kartana.png,Kartana,,Grass,Steel,7
+799,/wiki/Guzzlord_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/47/799Guzzlord.png/70px-799Guzzlord.png,Guzzlord,,Dark,Dragon,7
+800,/wiki/Necrozma_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/44/800Necrozma.png/70px-800Necrozma.png,Necrozma,,Psychic,Psychic,7
+NA,/wiki/Necrozma_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/80/800Necrozma-Dusk_Mane.png/70px-800Necrozma-Dusk_Mane.png,Necrozma,Dusk Mane,Psychic,Steel,7
+NA,/wiki/Necrozma_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7a/800Necrozma-Dawn_Wings.png/70px-800Necrozma-Dawn_Wings.png,Necrozma,Dawn Wings,Psychic,Ghost,7
+801,/wiki/Magearna_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0a/801Magearna.png/70px-801Magearna.png,Magearna,,Steel,Fairy,7
+802,/wiki/Marshadow_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/89/802Marshadow.png/70px-802Marshadow.png,Marshadow,,Fighting,Ghost,7
+803,/wiki/Poipole_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e5/803Poipole.png/70px-803Poipole.png,Poipole,,Poison,Poison,7
+804,/wiki/Naganadel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/de/804Naganadel.png/70px-804Naganadel.png,Naganadel,,Poison,Dragon,7
+805,/wiki/Stakataka_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/27/805Stakataka.png/70px-805Stakataka.png,Stakataka,,Rock,Steel,7
+806,/wiki/Blacephalon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a5/806Blacephalon.png/70px-806Blacephalon.png,Blacephalon,,Fire,Ghost,7
+807,/wiki/Zeraora_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a7/807Zeraora.png/70px-807Zeraora.png,Zeraora,,Electric,Electric,7
+808,/wiki/Meltan_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d1/808Meltan.png/70px-808Meltan.png,Meltan,,Steel,Steel,7
+809,/wiki/Melmetal_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ea/809Melmetal.png/70px-809Melmetal.png,Melmetal,,Steel,Steel,7
+810,/wiki/Grookey_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/93/810Grookey.png/70px-810Grookey.png,Grookey,,Grass,Grass,8
+811,/wiki/Thwackey_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8f/811Thwackey.png/70px-811Thwackey.png,Thwackey,,Grass,Grass,8
+812,/wiki/Rillaboom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/47/812Rillaboom.png/70px-812Rillaboom.png,Rillaboom,,Grass,Grass,8
+813,/wiki/Scorbunny_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/06/813Scorbunny.png/70px-813Scorbunny.png,Scorbunny,,Fire,Fire,8
+814,/wiki/Raboot_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bc/814Raboot.png/70px-814Raboot.png,Raboot,,Fire,Fire,8
+815,/wiki/Cinderace_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b0/815Cinderace.png/70px-815Cinderace.png,Cinderace,,Fire,Fire,8
+816,/wiki/Sobble_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9b/816Sobble.png/70px-816Sobble.png,Sobble,,Water,Water,8
+817,/wiki/Drizzile_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6c/817Drizzile.png/70px-817Drizzile.png,Drizzile,,Water,Water,8
+818,/wiki/Inteleon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e4/818Inteleon.png/70px-818Inteleon.png,Inteleon,,Water,Water,8
+819,/wiki/Skwovet_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/ce/819Skwovet.png/70px-819Skwovet.png,Skwovet,,Normal,Normal,8
+820,/wiki/Greedent_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6b/820Greedent.png/70px-820Greedent.png,Greedent,,Normal,Normal,8
+821,/wiki/Rookidee_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/79/821Rookidee.png/70px-821Rookidee.png,Rookidee,,Flying,Flying,8
+822,/wiki/Corvisquire_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ec/822Corvisquire.png/70px-822Corvisquire.png,Corvisquire,,Flying,Flying,8
+823,/wiki/Corviknight_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0c/823Corviknight.png/70px-823Corviknight.png,Corviknight,,Flying,Steel,8
+824,/wiki/Blipbug_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4c/824Blipbug.png/70px-824Blipbug.png,Blipbug,,Bug,Bug,8
+825,/wiki/Dottler_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/95/825Dottler.png/70px-825Dottler.png,Dottler,,Bug,Psychic,8
+826,/wiki/Orbeetle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/79/826Orbeetle.png/70px-826Orbeetle.png,Orbeetle,,Bug,Psychic,8
+827,/wiki/Nickit_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/22/827Nickit.png/70px-827Nickit.png,Nickit,,Dark,Dark,8
+828,/wiki/Thievul_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e7/828Thievul.png/70px-828Thievul.png,Thievul,,Dark,Dark,8
+829,/wiki/Gossifleur_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4c/829Gossifleur.png/70px-829Gossifleur.png,Gossifleur,,Grass,Grass,8
+830,/wiki/Eldegoss_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/34/830Eldegoss.png/70px-830Eldegoss.png,Eldegoss,,Grass,Grass,8
+831,/wiki/Wooloo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1f/831Wooloo.png/70px-831Wooloo.png,Wooloo,,Normal,Normal,8
+832,/wiki/Dubwool_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9a/832Dubwool.png/70px-832Dubwool.png,Dubwool,,Normal,Normal,8
+833,/wiki/Chewtle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/22/833Chewtle.png/70px-833Chewtle.png,Chewtle,,Water,Water,8
+834,/wiki/Drednaw_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/be/834Drednaw.png/70px-834Drednaw.png,Drednaw,,Water,Rock,8
+835,/wiki/Yamper_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/63/835Yamper.png/70px-835Yamper.png,Yamper,,Electric,Electric,8
+836,/wiki/Boltund_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e4/836Boltund.png/70px-836Boltund.png,Boltund,,Electric,Electric,8
+837,/wiki/Rolycoly_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a1/837Rolycoly.png/70px-837Rolycoly.png,Rolycoly,,Rock,Rock,8
+838,/wiki/Carkol_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e1/838Carkol.png/70px-838Carkol.png,Carkol,,Rock,Fire,8
+839,/wiki/Coalossal_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/0c/839Coalossal.png/70px-839Coalossal.png,Coalossal,,Rock,Fire,8
+840,/wiki/Applin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cc/840Applin.png/70px-840Applin.png,Applin,,Grass,Dragon,8
+841,/wiki/Flapple_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/01/841Flapple.png/70px-841Flapple.png,Flapple,,Grass,Dragon,8
+842,/wiki/Appletun_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/36/842Appletun.png/70px-842Appletun.png,Appletun,,Grass,Dragon,8
+843,/wiki/Silicobra_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b5/843Silicobra.png/70px-843Silicobra.png,Silicobra,,Ground,Ground,8
+844,/wiki/Sandaconda_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/11/844Sandaconda.png/70px-844Sandaconda.png,Sandaconda,,Ground,Ground,8
+845,/wiki/Cramorant_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f3/845Cramorant.png/70px-845Cramorant.png,Cramorant,,Flying,Water,8
+NA,/wiki/Cramorant_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/19/845Cramorant-Gulping.png/70px-845Cramorant-Gulping.png,Cramorant,Gulping Form,Flying,Water,8
+NA,/wiki/Cramorant_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b9/845Cramorant-Gorging.png/70px-845Cramorant-Gorging.png,Cramorant,Gorging Form,Flying,Water,8
+846,/wiki/Arrokuda_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a9/846Arrokuda.png/70px-846Arrokuda.png,Arrokuda,,Water,Water,8
+847,/wiki/Barraskewda_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d9/847Barraskewda.png/70px-847Barraskewda.png,Barraskewda,,Water,Water,8
+848,/wiki/Toxel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d5/848Toxel.png/70px-848Toxel.png,Toxel,,Electric,Poison,8
+849,/wiki/Toxtricity_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/56/849Toxtricity-Amped.png/70px-849Toxtricity-Amped.png,Toxtricity,Amped Form,Electric,Poison,8
+NA,/wiki/Toxtricity_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d1/849Toxtricity-Low_Key.png/70px-849Toxtricity-Low_Key.png,Toxtricity,Low Key Form,Electric,Poison,8
+850,/wiki/Sizzlipede_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f2/850Sizzlipede.png/70px-850Sizzlipede.png,Sizzlipede,,Fire,Bug,8
+851,/wiki/Centiskorch_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ed/851Centiskorch.png/70px-851Centiskorch.png,Centiskorch,,Fire,Bug,8
+852,/wiki/Clobbopus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/4e/852Clobbopus.png/70px-852Clobbopus.png,Clobbopus,,Fighting,Fighting,8
+853,/wiki/Grapploct_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c4/853Grapploct.png/70px-853Grapploct.png,Grapploct,,Fighting,Fighting,8
+854,/wiki/Sinistea_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b1/854Sinistea.png/70px-854Sinistea.png,Sinistea,,Ghost,Ghost,8
+855,/wiki/Polteageist_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3d/855Polteageist.png/70px-855Polteageist.png,Polteageist,,Ghost,Ghost,8
+856,/wiki/Hatenna_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8b/856Hatenna.png/70px-856Hatenna.png,Hatenna,,Psychic,Psychic,8
+857,/wiki/Hattrem_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/19/857Hattrem.png/70px-857Hattrem.png,Hattrem,,Psychic,Psychic,8
+858,/wiki/Hatterene_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/10/858Hatterene.png/70px-858Hatterene.png,Hatterene,,Psychic,Fairy,8
+859,/wiki/Impidimp_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/fb/859Impidimp.png/70px-859Impidimp.png,Impidimp,,Dark,Fairy,8
+860,/wiki/Morgrem_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/66/860Morgrem.png/70px-860Morgrem.png,Morgrem,,Dark,Fairy,8
+861,/wiki/Grimmsnarl_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/67/861Grimmsnarl.png/70px-861Grimmsnarl.png,Grimmsnarl,,Dark,Fairy,8
+862,/wiki/Obstagoon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/08/862Obstagoon.png/70px-862Obstagoon.png,Obstagoon,,Dark,Normal,8
+863,/wiki/Perrserker_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e0/863Perrserker.png/70px-863Perrserker.png,Perrserker,,Steel,Steel,8
+864,/wiki/Cursola_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/db/864Cursola.png/70px-864Cursola.png,Cursola,,Ghost,Ghost,8
+865,/wiki/Sirfetch%27d_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/38/865Sirfetch%27d.png/70px-865Sirfetch%27d.png,Sirfetch'd,,Fighting,Fighting,8
+866,/wiki/Mr._Rime_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/51/866Mr._Rime.png/70px-866Mr._Rime.png,Mr. Rime,,Ice,Psychic,8
+867,/wiki/Runerigus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/867Runerigus.png/70px-867Runerigus.png,Runerigus,,Ground,Ghost,8
+868,/wiki/Milcery_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/05/868Milcery.png/70px-868Milcery.png,Milcery,,Fairy,Fairy,8
+869,/wiki/Alcremie_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e0/869Alcremie.png/70px-869Alcremie.png,Alcremie,Vanilla Cream,Fairy,Fairy,8
+870,/wiki/Falinks_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bb/870Falinks.png/70px-870Falinks.png,Falinks,,Fighting,Fighting,8
+871,/wiki/Pincurchin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/11/871Pincurchin.png/70px-871Pincurchin.png,Pincurchin,,Electric,Electric,8
+872,/wiki/Snom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f9/872Snom.png/70px-872Snom.png,Snom,,Ice,Bug,8
+873,/wiki/Frosmoth_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/04/873Frosmoth.png/70px-873Frosmoth.png,Frosmoth,,Ice,Bug,8
+874,/wiki/Stonjourner_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/60/874Stonjourner.png/70px-874Stonjourner.png,Stonjourner,,Rock,Rock,8
+875,/wiki/Eiscue_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9b/875Eiscue-Ice.png/70px-875Eiscue-Ice.png,Eiscue,Ice Face,Ice,Ice,8
+NA,/wiki/Eiscue_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/27/875Eiscue-Noice.png/70px-875Eiscue-Noice.png,Eiscue,Noice Face,Ice,Ice,8
+876,/wiki/Indeedee_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8a/876Indeedee-Male.png/70px-876Indeedee-Male.png,Indeedee,Male,Psychic,Normal,8
+NA,/wiki/Indeedee_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c5/876Indeedee-Female.png/70px-876Indeedee-Female.png,Indeedee,Female,Psychic,Normal,8
+877,/wiki/Morpeko_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/df/877Morpeko-Full.png/70px-877Morpeko-Full.png,Morpeko,Full Belly Mode,Electric,Dark,8
+NA,/wiki/Morpeko_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/df/877Morpeko-Hangry.png/70px-877Morpeko-Hangry.png,Morpeko,Hangry Mode,Electric,Dark,8
+878,/wiki/Cufant_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/56/878Cufant.png/70px-878Cufant.png,Cufant,,Steel,Steel,8
+879,/wiki/Copperajah_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/76/879Copperajah.png/70px-879Copperajah.png,Copperajah,,Steel,Steel,8
+880,/wiki/Dracozolt_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/91/880Dracozolt.png/70px-880Dracozolt.png,Dracozolt,,Electric,Dragon,8
+881,/wiki/Arctozolt_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/40/881Arctozolt.png/70px-881Arctozolt.png,Arctozolt,,Electric,Ice,8
+882,/wiki/Dracovish_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/16/882Dracovish.png/70px-882Dracovish.png,Dracovish,,Water,Dragon,8
+883,/wiki/Arctovish_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/03/883Arctovish.png/70px-883Arctovish.png,Arctovish,,Water,Ice,8
+884,/wiki/Duraludon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/38/884Duraludon.png/70px-884Duraludon.png,Duraludon,,Steel,Dragon,8
+885,/wiki/Dreepy_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a9/885Dreepy.png/70px-885Dreepy.png,Dreepy,,Dragon,Ghost,8
+886,/wiki/Drakloak_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e1/886Drakloak.png/70px-886Drakloak.png,Drakloak,,Dragon,Ghost,8
+887,/wiki/Dragapult_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f7/887Dragapult.png/70px-887Dragapult.png,Dragapult,,Dragon,Ghost,8
+888,/wiki/Zacian_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e3/888Zacian-Hero.png/70px-888Zacian-Hero.png,Zacian,Hero of Many Battles,Fairy,Fairy,8
+NA,/wiki/Zacian_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/ca/888Zacian.png/70px-888Zacian.png,Zacian,Crowned Sword,Fairy,Steel,8
+889,/wiki/Zamazenta_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/97/889Zamazenta-Hero.png/70px-889Zamazenta-Hero.png,Zamazenta,Hero of Many Battles,Fighting,Fighting,8
+NA,/wiki/Zamazenta_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/72/889Zamazenta.png/70px-889Zamazenta.png,Zamazenta,Crowned Shield,Fighting,Steel,8
+890,/wiki/Eternatus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/62/890Eternatus.png/70px-890Eternatus.png,Eternatus,,Poison,Dragon,8
+891,/wiki/Kubfu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/47/891Kubfu.png/70px-891Kubfu.png,Kubfu,,Fighting,Fighting,8
+892,/wiki/Urshifu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e7/892Urshifu-Single_Strike.png/70px-892Urshifu-Single_Strike.png,Urshifu,Single Strike Style,Fighting,Dark,8
+NA,/wiki/Urshifu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/38/892Urshifu-Rapid_Strike.png/70px-892Urshifu-Rapid_Strike.png,Urshifu,Rapid Strike Style,Fighting,Water,8
+893,/wiki/Zarude_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a5/893Zarude.png/70px-893Zarude.png,Zarude,,Dark,Grass,8
+894,/wiki/Regieleki_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9b/894Regieleki.png/70px-894Regieleki.png,Regieleki,,Electric,Electric,8
+895,/wiki/Regidrago_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e8/895Regidrago.png/70px-895Regidrago.png,Regidrago,,Dragon,Dragon,8
+896,/wiki/Glastrier_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/ff/896Glastrier.png/70px-896Glastrier.png,Glastrier,,Ice,Ice,8
+897,/wiki/Spectrier_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7e/897Spectrier.png/70px-897Spectrier.png,Spectrier,,Ghost,Ghost,8
+898,/wiki/Calyrex_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3c/898Calyrex.png/70px-898Calyrex.png,Calyrex,,Psychic,Grass,8
+NA,/wiki/Calyrex_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e5/898Calyrex-Ice_Rider.png/70px-898Calyrex-Ice_Rider.png,Calyrex,Ice Rider,Psychic,Ice,8
+NA,/wiki/Calyrex_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/55/898Calyrex-Shadow_Rider.png/70px-898Calyrex-Shadow_Rider.png,Calyrex,Shadow Rider,Psychic,Ghost,8
+899,/wiki/Wyrdeer_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/75/899Wyrdeer.png/70px-899Wyrdeer.png,Wyrdeer,,Normal,Psychic,8
+900,/wiki/Kleavor_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/38/900Kleavor.png/70px-900Kleavor.png,Kleavor,,Bug,Rock,8
+901,/wiki/Ursaluna_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/02/901Ursaluna.png/70px-901Ursaluna.png,Ursaluna,,Ground,Normal,8
+902,/wiki/Basculegion_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/60/902Basculegion-Male.png/70px-902Basculegion-Male.png,Basculegion,Male,Water,Ghost,8
+NA,/wiki/Basculegion_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/04/902Basculegion-Female.png/70px-902Basculegion-Female.png,Basculegion,Female,Water,Ghost,8
+903,/wiki/Sneasler_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5f/903Sneasler.png/70px-903Sneasler.png,Sneasler,,Fighting,Poison,8
+904,/wiki/Overqwil_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/26/904Overqwil.png/70px-904Overqwil.png,Overqwil,,Dark,Poison,8
+905,/wiki/Enamorus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bf/905Enamorus.png/70px-905Enamorus.png,Enamorus,Incarnate Forme,Fairy,Flying,8
+NA,/wiki/Enamorus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/77/905Enamorus-Therian.png/70px-905Enamorus-Therian.png,Enamorus,Therian Forme,Fairy,Flying,8
+906,/wiki/Sprigatito_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8b/906Sprigatito.png/70px-906Sprigatito.png,Sprigatito,,Grass,Grass,9
+907,/wiki/Floragato_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/16/Floragato.png/70px-Floragato.png,Floragato,,Grass,Grass,9
+908,/wiki/Meowscarada_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f6/Meowscarada.png/70px-Meowscarada.png,Meowscarada,,Grass,Dark,9
+909,/wiki/Fuecoco_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2d/909Fuecoco.png/70px-909Fuecoco.png,Fuecoco,,Fire,Fire,9
+910,/wiki/Crocalor_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6a/Crocalor.png/70px-Crocalor.png,Crocalor,,Fire,Fire,9
+911,/wiki/Skeledirge_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d5/Skeledirge.png/70px-Skeledirge.png,Skeledirge,,Fire,Ghost,9
+912,/wiki/Quaxly_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/65/912Quaxly.png/70px-912Quaxly.png,Quaxly,,Water,Water,9
+913,/wiki/Quaxwell_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cf/Quaxwell.png/70px-Quaxwell.png,Quaxwell,,Water,Water,9
+914,/wiki/Quaquaval_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bd/Quaquaval.png/70px-Quaquaval.png,Quaquaval,,Water,Fighting,9
+915,/wiki/Lechonk_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/86/915Lechonk.png/70px-915Lechonk.png,Lechonk,,Normal,Normal,9
+916,/wiki/Oinkologne_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/47/916Oinkologne.png/70px-916Oinkologne.png,Oinkologne,,Normal,Normal,9
+917,/wiki/Tarountula_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5b/917Tarountula.png/70px-917Tarountula.png,Tarountula,,Bug,Bug,9
+918,/wiki/Spidops_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e6/918Spidops.png/70px-918Spidops.png,Spidops,,Bug,Bug,9
+919,/wiki/Nymble_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f6/919Nymble.png/70px-919Nymble.png,Nymble,,Bug,Bug,9
+920,/wiki/Lokix_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/57/920Lokix.png/70px-920Lokix.png,Lokix,,Bug,Dark,9
+921,/wiki/Pawmi_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/23/921Pawmi.png/70px-921Pawmi.png,Pawmi,,Electric,Electric,9
+922,/wiki/Pawmo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/12/922Pawmo.png/70px-922Pawmo.png,Pawmo,,Electric,Fighting,9
+923,/wiki/Pawmot_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a4/923Pawmot.png/70px-923Pawmot.png,Pawmot,,Electric,Fighting,9
+924,/wiki/Tandemaus_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c0/924Tandemaus.png/70px-924Tandemaus.png,Tandemaus,,Normal,Normal,9
+925,/wiki/Maushold_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/17/925Maushold.png/70px-925Maushold.png,Maushold,,Normal,Normal,9
+926,/wiki/Fidough_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3a/926Fidough.png/70px-926Fidough.png,Fidough,,Fairy,Fairy,9
+927,/wiki/Dachsbun_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/4/48/927Dachsbun.png/70px-927Dachsbun.png,Dachsbun,,Fairy,Fairy,9
+928,/wiki/Smoliv_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/24/928Smoliv.png/70px-928Smoliv.png,Smoliv,,Grass,Normal,9
+929,/wiki/Dolliv_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/9d/929Dolliv.png/70px-929Dolliv.png,Dolliv,,Grass,Normal,9
+930,/wiki/Arboliva_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b6/930Arboliva.png/70px-930Arboliva.png,Arboliva,,Grass,Normal,9
+931,/wiki/Squawkabilly_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e4/931Squawkabilly.png/70px-931Squawkabilly.png,Squawkabilly,,Normal,Flying,9
+932,/wiki/Nacli_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/ee/932Nacli.png/70px-932Nacli.png,Nacli,,Rock,Rock,9
+933,/wiki/Naclstack_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/eb/933Naclstack.png/70px-933Naclstack.png,Naclstack,,Rock,Rock,9
+934,/wiki/Garganacl_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c4/934Garganacl.png/70px-934Garganacl.png,Garganacl,,Rock,Rock,9
+935,/wiki/Charcadet_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/7b/935Charcadet.png/70px-935Charcadet.png,Charcadet,,Fire,Fire,9
+936,/wiki/Armarouge_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/dd/936Armarouge.png/70px-936Armarouge.png,Armarouge,,Fire,Psychic,9
+937,/wiki/Ceruledge_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ab/937Ceruledge.png/70px-937Ceruledge.png,Ceruledge,,Fire,Ghost,9
+938,/wiki/Tadbulb_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2f/938Tadbulb.png/70px-938Tadbulb.png,Tadbulb,,Electric,Electric,9
+939,/wiki/Bellibolt_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/da/939Bellibolt.png/70px-939Bellibolt.png,Bellibolt,,Electric,Electric,9
+940,/wiki/Wattrel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/53/940Wattrel.png/70px-940Wattrel.png,Wattrel,,Electric,Flying,9
+941,/wiki/Kilowattrel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/66/941Kilowattrel.png/70px-941Kilowattrel.png,Kilowattrel,,Electric,Flying,9
+942,/wiki/Maschiff_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/bd/942Maschiff.png/70px-942Maschiff.png,Maschiff,,Dark,Dark,9
+943,/wiki/Mabosstiff_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b4/943Mabosstiff.png/70px-943Mabosstiff.png,Mabosstiff,,Dark,Dark,9
+944,/wiki/Shroodle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a9/944Shroodle.png/70px-944Shroodle.png,Shroodle,,Poison,Normal,9
+945,/wiki/Grafaiai_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/da/945Grafaiai.png/70px-945Grafaiai.png,Grafaiai,,Poison,Normal,9
+946,/wiki/Bramblin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/0/02/946Bramblin.png/70px-946Bramblin.png,Bramblin,,Grass,Ghost,9
+947,/wiki/Brambleghast_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ae/947Brambleghast.png/70px-947Brambleghast.png,Brambleghast,,Grass,Ghost,9
+948,/wiki/Toedscool_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/20/948Toedscool.png/70px-948Toedscool.png,Toedscool,,Ground,Grass,9
+949,/wiki/Toedscruel_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6c/949Toedscruel.png/70px-949Toedscruel.png,Toedscruel,,Ground,Grass,9
+950,/wiki/Klawf_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/94/950Klawf.png/70px-950Klawf.png,Klawf,,Rock,Rock,9
+951,/wiki/Capsakid_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/aa/951Capsakid.png/70px-951Capsakid.png,Capsakid,,Grass,Grass,9
+952,/wiki/Scovillain_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cc/952Scovillain.png/70px-952Scovillain.png,Scovillain,,Grass,Fire,9
+953,/wiki/Rellor_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/6a/953Rellor.png/70px-953Rellor.png,Rellor,,Bug,Bug,9
+954,/wiki/Rabsca_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c8/954Rabsca.png/70px-954Rabsca.png,Rabsca,,Bug,Psychic,9
+955,/wiki/Flittle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/da/955Flittle.png/70px-955Flittle.png,Flittle,,Psychic,Psychic,9
+956,/wiki/Espathra_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/51/956Espathra.png/70px-956Espathra.png,Espathra,,Psychic,Psychic,9
+957,/wiki/Tinkatink_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/54/957Tinkatink.png/70px-957Tinkatink.png,Tinkatink,,Fairy,Steel,9
+958,/wiki/Tinkatuff_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/db/958Tinkatuff.png/70px-958Tinkatuff.png,Tinkatuff,,Fairy,Steel,9
+959,/wiki/Tinkaton_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/57/959Tinkaton.png/70px-959Tinkaton.png,Tinkaton,,Fairy,Steel,9
+960,/wiki/Wiglett_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c3/960Wiglett.png/70px-960Wiglett.png,Wiglett,,Water,Water,9
+961,/wiki/Wugtrio_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e7/961Wugtrio.png/70px-961Wugtrio.png,Wugtrio,,Water,Water,9
+962,/wiki/Bombirdier_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/ac/962Bombirdier.png/70px-962Bombirdier.png,Bombirdier,,Flying,Dark,9
+963,/wiki/Finizen_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cd/963Finizen.png/70px-963Finizen.png,Finizen,,Water,Water,9
+964,/wiki/Palafin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a6/964Palafin.png/70px-964Palafin.png,Palafin,Zero Form,Water,Water,9
+NA,/wiki/Palafin_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/53/964Palafin-Hero.png/70px-964Palafin-Hero.png,Palafin,Hero Form,Water,Water,9
+965,/wiki/Varoom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2c/965Varoom.png/70px-965Varoom.png,Varoom,,Steel,Poison,9
+966,/wiki/Revavroom_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c1/966Revavroom.png/70px-966Revavroom.png,Revavroom,,Steel,Poison,9
+967,/wiki/Cyclizar_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/86/967Cyclizar.png/70px-967Cyclizar.png,Cyclizar,,Dragon,Normal,9
+968,/wiki/Orthworm_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/57/968Orthworm.png/70px-968Orthworm.png,Orthworm,,Steel,Steel,9
+969,/wiki/Glimmet_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/33/969Glimmet.png/70px-969Glimmet.png,Glimmet,,Rock,Poison,9
+970,/wiki/Glimmora_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/89/970Glimmora.png/70px-970Glimmora.png,Glimmora,,Rock,Poison,9
+971,/wiki/Greavard_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3a/971Greavard.png/70px-971Greavard.png,Greavard,,Ghost,Ghost,9
+972,/wiki/Houndstone_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/25/972Houndstone.png/70px-972Houndstone.png,Houndstone,,Ghost,Ghost,9
+973,/wiki/Flamigo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d1/973Flamigo.png/70px-973Flamigo.png,Flamigo,,Flying,Fighting,9
+974,/wiki/Cetoddle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/28/974Cetoddle.png/70px-974Cetoddle.png,Cetoddle,,Ice,Ice,9
+975,/wiki/Cetitan_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a0/975Cetitan.png/70px-975Cetitan.png,Cetitan,,Ice,Ice,9
+976,/wiki/Veluza_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e6/976Veluza.png/70px-976Veluza.png,Veluza,,Water,Psychic,9
+977,/wiki/Dondozo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b4/977Dondozo.png/70px-977Dondozo.png,Dondozo,,Water,Water,9
+978,/wiki/Tatsugiri_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/b/b0/978Tatsugiri.png/70px-978Tatsugiri.png,Tatsugiri,Curly Form,Dragon,Water,9
+NA,/wiki/Tatsugiri_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/80/978Tatsugiri-Droopy.png/70px-978Tatsugiri-Droopy.png,Tatsugiri,Droopy Form,Dragon,Water,9
+NA,/wiki/Tatsugiri_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e9/978Tatsugiri-Stretchy.png/70px-978Tatsugiri-Stretchy.png,Tatsugiri,Stretchy Form,Dragon,Water,9
+979,/wiki/Annihilape_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/8/8c/979Annihilape.png/70px-979Annihilape.png,Annihilape,,Fighting,Ghost,9
+980,/wiki/Clodsire_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e7/980Clodsire.png/70px-980Clodsire.png,Clodsire,,Poison,Ground,9
+981,/wiki/Farigiraf_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/99/981Farigiraf.png/70px-981Farigiraf.png,Farigiraf,,Normal,Psychic,9
+982,/wiki/Dudunsparce_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/96/982Dudunsparce.png/70px-982Dudunsparce.png,Dudunsparce,,Normal,Normal,9
+983,/wiki/Kingambit_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a1/983Kingambit.png/70px-983Kingambit.png,Kingambit,,Dark,Steel,9
+984,/wiki/Great_Tusk_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/50/984Great_Tusk.png/70px-984Great_Tusk.png,Great Tusk,,Ground,Fighting,9
+985,/wiki/Scream_Tail_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5c/985Scream_Tail.png/70px-985Scream_Tail.png,Scream Tail,,Fairy,Psychic,9
+986,/wiki/Brute_Bonnet_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/e/e1/986Brute_Bonnet.png/70px-986Brute_Bonnet.png,Brute Bonnet,,Grass,Dark,9
+987,/wiki/Flutter_Mane_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/c5/987Flutter_Mane.png/70px-987Flutter_Mane.png,Flutter Mane,,Ghost,Fairy,9
+988,/wiki/Slither_Wing_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/13/988Slither_Wing.png/70px-988Slither_Wing.png,Slither Wing,,Bug,Fighting,9
+989,/wiki/Sandy_Shocks_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/98/989Sandy_Shocks.png/70px-989Sandy_Shocks.png,Sandy Shocks,,Electric,Ground,9
+990,/wiki/Iron_Treads_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a3/990Iron_Treads.png/70px-990Iron_Treads.png,Iron Treads,,Ground,Steel,9
+991,/wiki/Iron_Bundle_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/dc/991Iron_Bundle.png/70px-991Iron_Bundle.png,Iron Bundle,,Ice,Water,9
+992,/wiki/Iron_Hands_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3f/992Iron_Hands.png/70px-992Iron_Hands.png,Iron Hands,,Fighting,Electric,9
+993,/wiki/Iron_Jugulis_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/f/f0/993Iron_Jugulis.png/70px-993Iron_Jugulis.png,Iron Jugulis,,Dark,Flying,9
+994,/wiki/Iron_Moth_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/9/95/994Iron_Moth.png/70px-994Iron_Moth.png,Iron Moth,,Fire,Poison,9
+995,/wiki/Iron_Thorns_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3a/995Iron_Thorns.png/70px-995Iron_Thorns.png,Iron Thorns,,Rock,Electric,9
+996,/wiki/Frigibax_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/c/cc/996Frigibax.png/70px-996Frigibax.png,Frigibax,,Dragon,Ice,9
+997,/wiki/Arctibax_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/5/5a/997Arctibax.png/70px-997Arctibax.png,Arctibax,,Dragon,Ice,9
+998,/wiki/Baxcalibur_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/17/998Baxcalibur.png/70px-998Baxcalibur.png,Baxcalibur,,Dragon,Ice,9
+999,/wiki/Gimmighoul_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/18/999Gimmighoul.png/70px-999Gimmighoul.png,Gimmighoul,Chest Form,Ghost,Ghost,9
+NA,/wiki/Gimmighoul_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/3/3e/999Gimmighoul-Roaming.png/70px-999Gimmighoul-Roaming.png,Gimmighoul,Roaming Form,Ghost,Ghost,9
+1000,/wiki/Gholdengo_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/2d/1000Gholdengo.png/70px-1000Gholdengo.png,Gholdengo,,Steel,Ghost,9
+1001,/wiki/Wo-Chien_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/d/d4/1001Wo-Chien.png/70px-1001Wo-Chien.png,Wo-Chien,,Dark,Grass,9
+1002,/wiki/Chien-Pao_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/17/1002Chien-Pao.png/70px-1002Chien-Pao.png,Chien-Pao,,Dark,Ice,9
+1003,/wiki/Ting-Lu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/12/1003Ting-Lu.png/70px-1003Ting-Lu.png,Ting-Lu,,Dark,Ground,9
+1004,/wiki/Chi-Yu_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/7/71/1004Chi-Yu.png/70px-1004Chi-Yu.png,Chi-Yu,,Dark,Fire,9
+1005,/wiki/Roaring_Moon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/6/69/1005Roaring_Moon.png/70px-1005Roaring_Moon.png,Roaring Moon,,Dragon,Dark,9
+1006,/wiki/Iron_Valiant_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/2/25/1006Iron_Valiant.png/70px-1006Iron_Valiant.png,Iron Valiant,,Fairy,Fighting,9
+1007,/wiki/Koraidon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/a/a2/1007Koraidon.png/70px-1007Koraidon.png,Koraidon,,Fighting,Dragon,9
+1008,/wiki/Miraidon_(Pok%C3%A9mon),//archives.bulbagarden.net/media/upload/thumb/1/1c/1008Miraidon.png/70px-1008Miraidon.png,Miraidon,,Electric,Dragon,9

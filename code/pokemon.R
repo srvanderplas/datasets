@@ -31,9 +31,9 @@ parse_rows <- function(row) {
 pokemon_data <- map_dfr(rows[-1], parse_rows)
 # Collapse list-col to get into csv form
 pokemon_data <- pokemon_data %>%
-  mutate(type = map_chr(type, paste, collapse = ",")) %>%
-  mutate(variant = variant %>% str_remove("Forme?") %>% str_remove("Mode") %>%
-           str_remove(name) %>% str_trim())
+  mutate(type = map_chr(type, paste, collapse = ","))
+
+write_csv(pokemon_data, "raw/pokemon_data_pokemondb.csv")
 
 # mirror site
 dir.create("html/pokemon_gen_1-9")
@@ -69,6 +69,16 @@ parse_tables <- function(tab, id) {
 }
 
 pokemon_data2 <- map2_df(tables, 1:length(tables), parse_tables)
+
+write_csv(pokemon_data2, "raw/pokemon_data_bulbapedia.csv")
+
+
+# Clean up and join the pokemon data together
+
+pokemon_data_clean <- pokemon_data %>%
+  mutate(variant = variant %>% str_remove("Forme?") %>% str_remove("Mode") %>%
+           str_remove(name) %>% str_trim())
+
 pokemon_data2_adj <- pokemon_data2 %>%
   fill(pokedex_no) %>%
   mutate(variant = str_remove(variant, "Forme?") %>% str_remove("Mode") %>%
@@ -78,7 +88,8 @@ pokemon_data2_adj <- pokemon_data2 %>%
          type2 = ifelse(type2 == type1, "", type2),
          type = paste(type1, type2, sep = ",") %>% str_remove(",$"))
 
-poke_cluster <- full_join(pokemon_data, pokemon_data2_adj)
+
+poke_cluster <- full_join(pokemon_data_clean, pokemon_data2_adj)
 
 poke_mismatch1 <- anti_join(pokemon_data, pokemon_data2_adj)
 poke_mismatch2 <- anti_join(pokemon_data2_adj, pokemon_data)
