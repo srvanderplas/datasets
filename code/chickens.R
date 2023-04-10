@@ -14,6 +14,6 @@ download.file(url, "raw/chickens/breeds-table.html")
 library(dplyr)
 library(stringr)
 breeds <- breeds %>%
-  mutate(name = str_replace_all(`Chicken Breed Name`, c("[[:punct:]]" = "", " " = "-")))
+  mutate(name = str_replace_all(`Chicken Breed Name`, c("[[:punct:]]" = "", " " = "-", "[^A-z-]"="")))
 
 download.file(breeds$link, destfile = paste0("raw/chickens/", breeds$name, ".html"))
